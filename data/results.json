@@ -1,8 +1,7 @@
 [
   {
-    "adPresent": true,
+    "adPresent": false,
     "urls": [
-      "www.walmart.com/",
       "www.walmart.com"
     ],
     "company": "Walmart",
@@ -50,5 +49,5162 @@
     "company": "Amazon.com",
     "position": 5,
     "filepath": "screenshots/5-Amazon.com.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.unitedhealthgroup.com"
+    ],
+    "company": "UnitedHealth Group",
+    "position": 6,
+    "filepath": "screenshots/6-UnitedHealth Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.mckesson.com"
+    ],
+    "company": "McKesson",
+    "position": 7,
+    "filepath": "screenshots/7-McKesson.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "cvshealth.com"
+    ],
+    "company": "CVS Health",
+    "position": 8,
+    "filepath": "screenshots/8-CVS Health.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.att.com",
+      "www.merriam-webster.com › dictionary › at"
+    ],
+    "company": "AT&T",
+    "position": 9,
+    "filepath": "screenshots/9-AT&T.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.amerisourcebergen.com",
+      "en.wikipedia.org › wiki › AmerisourceBergen"
+    ],
+    "company": "AmerisourceBergen",
+    "position": 10,
+    "filepath": "screenshots/10-AmerisourceBergen.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.chevron.com",
+      "www.chevron.com › about",
+      "careers.chevron.com"
+    ],
+    "company": "Chevron",
+    "position": 11,
+    "filepath": "screenshots/11-Chevron.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ford.com",
+      "The Drive",
+      "The Motley Fool",
+      "CNBC.com"
+    ],
+    "company": "Ford Motor",
+    "position": 12,
+    "filepath": "screenshots/12-Ford Motor.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.gm.com",
+      "CNN.com",
+      "Detroit News",
+      "WANE.com"
+    ],
+    "company": "General Motors",
+    "position": 13,
+    "filepath": "screenshots/13-General Motors.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.costco.com"
+    ],
+    "company": "Costco Wholesale",
+    "position": 14,
+    "filepath": "screenshots/14-Costco Wholesale.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "abc.xyz"
+    ],
+    "company": "Alphabet",
+    "position": 15,
+    "filepath": "screenshots/15-Alphabet.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.cardinalhealth.com › ...",
+      "https://twitter.com/cardinalhealth"
+    ],
+    "company": "Cardinal Health",
+    "position": 16,
+    "filepath": "screenshots/16-Cardinal Health.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.walgreensbootsalliance.com"
+    ],
+    "company": "Walgreens Boots Alliance",
+    "position": 17,
+    "filepath": "screenshots/17-Walgreens Boots Alliance.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.jpmorganchase.com",
+      "www.chase.com",
+      "www.jpmorgan.com"
+    ],
+    "company": "JPMorgan Chase",
+    "position": 18,
+    "filepath": "screenshots/18-JPMorgan Chase.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.verizon.com › about",
+      "www.verizon.com › home › verizonglobalhome › ghp_landing",
+      "en.wikipedia.org › wiki › Verizon_Communications"
+    ],
+    "company": "Verizon Communications",
+    "position": 19,
+    "filepath": "screenshots/19-Verizon Communications.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.kroger.com",
+      "www.thekrogerco.com"
+    ],
+    "company": "Kroger",
+    "position": 20,
+    "filepath": "screenshots/20-Kroger.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ge.com",
+      "en.wikipedia.org › wiki › General_Electric",
+      "www.geappliances.com"
+    ],
+    "company": "General Electric",
+    "position": 21,
+    "filepath": "screenshots/21-General Electric.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "https://www.fanniemae.com"
+    ],
+    "company": "Fannie Mae",
+    "position": 22,
+    "filepath": "screenshots/22-Fannie Mae.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.phillips66.com",
+      "www.phillips66.com › about",
+      "www.phillips66gas.com"
+    ],
+    "company": "Phillips 66",
+    "position": 23,
+    "filepath": "screenshots/23-Phillips 66.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.valero.com › en-us"
+    ],
+    "company": "Valero Energy",
+    "position": 24,
+    "filepath": "screenshots/24-Valero Energy.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.bankofamerica.com/",
+      "www.bankofamerica.com"
+    ],
+    "company": "Bank of America",
+    "position": 25,
+    "filepath": "screenshots/25-Bank of America.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.microsoft.com",
+      "Microsoft",
+      "DevBlogs - Microsoft",
+      "DevBlogs - Microsoft"
+    ],
+    "company": "Microsoft",
+    "position": 26,
+    "filepath": "screenshots/26-Microsoft.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.homedepot.com/",
+      "www.homedepot.com",
+      "www.facebook.com › ... › Shopping & Retail › Retail Company"
+    ],
+    "company": "Home Depot",
+    "position": 27,
+    "filepath": "screenshots/27-Home Depot.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "CNN.com",
+      "The Seattle Times",
+      "KIRO-TV",
+      "GeekWire",
+      "KING5.com"
+    ],
+    "company": "Boeing",
+    "position": 28,
+    "filepath": "screenshots/28-Boeing.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "welcome.wf.com/Wells_Fargo/Checking",
+      "www.wellsfargo.com"
+    ],
+    "company": "Wells Fargo",
+    "position": 29,
+    "filepath": "screenshots/29-Wells Fargo.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.citigroup.com › citi",
+      "www.citigroup.com › citi › about",
+      "online.citi.com › login"
+    ],
+    "company": "Citigroup",
+    "position": 30,
+    "filepath": "screenshots/30-Citigroup.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.marathonpetroleum.com",
+      "https://twitter.com/MarathonPetroCo",
+      "en.wikipedia.org › wiki › Marathon_Petroleum"
+    ],
+    "company": "Marathon Petroleum",
+    "position": 31,
+    "filepath": "screenshots/31-Marathon Petroleum.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.xfinity.com/Comcast",
+      "www.xfinity.com",
+      "Xfinity"
+    ],
+    "company": "Comcast",
+    "position": 32,
+    "filepath": "screenshots/32-Comcast.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.anthem.com",
+      "www.antheminc.com",
+      "www.ea.com › games › anthem"
+    ],
+    "company": "Anthem",
+    "position": 33,
+    "filepath": "screenshots/33-Anthem.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.delltechnologies.com/",
+      "www.delltechnologies.com › en-us",
+      "TechCrunch"
+    ],
+    "company": "Dell Technologies",
+    "position": 34,
+    "filepath": "screenshots/34-Dell Technologies.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "en.wikipedia.org › wiki › DuPont",
+      "en.wikipedia.org › wiki › DuPont_(1802–2017)",
+      "www.dupont.com › news › e-i-dupont-de-nemours-announces-transac..."
+    ],
+    "company": "DuPont de Nemours",
+    "position": 35,
+    "filepath": "screenshots/35-DuPont de Nemours.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.christinaismyagent.com/statefarm",
+      "www.thequeensagent.com/StateFarm/Insurance",
+      "www.statefarm.com/"
+    ],
+    "company": "State Farm Insurance",
+    "position": 36,
+    "filepath": "screenshots/36-State Farm Insurance.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.jnj.com"
+    ],
+    "company": "Johnson & Johnson",
+    "position": 37,
+    "filepath": "screenshots/37-Johnson & Johnson.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.ibm.com/",
+      "www.ibm.com › us-en",
+      "www.research.ibm.com"
+    ],
+    "company": "IBM",
+    "position": 38,
+    "filepath": "screenshots/38-IBM.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.target.com"
+    ],
+    "company": "Target",
+    "position": 39,
+    "filepath": "screenshots/39-Target.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.freddiemac.com"
+    ],
+    "company": "Freddie Mac",
+    "position": 40,
+    "filepath": "screenshots/40-Freddie Mac.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.ups.com/",
+      "www.ups.com › Home",
+      "en.wikipedia.org › wiki › United_Parcel_Service"
+    ],
+    "company": "United Parcel Service",
+    "position": 41,
+    "filepath": "screenshots/41-United Parcel Service.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.lowes.com/Lowes",
+      "www.lowes.com",
+      "ilovetheupperwestside.com › Shopping"
+    ],
+    "company": "Lowe's",
+    "position": 42,
+    "filepath": "screenshots/42-Lowe's.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.intel.com/",
+      "Tom's Hardware",
+      "TheStreet",
+      "Forbes"
+    ],
+    "company": "Intel",
+    "position": 43,
+    "filepath": "screenshots/43-Intel.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.metlifechoice.com/NYSUT",
+      "www.metlife.com",
+      "www.metdental.com"
+    ],
+    "company": "MetLife",
+    "position": 44,
+    "filepath": "screenshots/44-MetLife.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "us.pg.com"
+    ],
+    "company": "Procter & Gamble",
+    "position": 45,
+    "filepath": "screenshots/45-Procter & Gamble.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.utc.com",
+      "en.wikipedia.org › wiki › United_Technologies"
+    ],
+    "company": "United Technologies",
+    "position": 46,
+    "filepath": "screenshots/46-United Technologies.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.fedex.com › en-us",
+      "www.fedex.com › global › choose-location",
+      "www.fedex.com › en-gb"
+    ],
+    "company": "FedEx",
+    "position": 47,
+    "filepath": "screenshots/47-FedEx.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.pepsico.com",
+      "en.wikipedia.org › wiki › PepsiCo",
+      "www.pepsicojobs.com"
+    ],
+    "company": "PepsiCo",
+    "position": 48,
+    "filepath": "screenshots/48-PepsiCo.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.adm.com",
+      "www.adm.com › our-company",
+      "en.wikipedia.org › wiki › Archer_Daniels_Midland"
+    ],
+    "company": "Archer Daniels Midland",
+    "position": 49,
+    "filepath": "screenshots/49-Archer Daniels Midland.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.prudential.com/",
+      "www.prudential.com",
+      "en.wikipedia.org › wiki › Prudential_Financial"
+    ],
+    "company": "Prudential Financial",
+    "position": 50,
+    "filepath": "screenshots/50-Prudential Financial.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.centene.com"
+    ],
+    "company": "Centene",
+    "position": 51,
+    "filepath": "screenshots/51-Centene.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.albertsons.com",
+      "https://twitter.com/Albertsons"
+    ],
+    "company": "Albertsons",
+    "position": 52,
+    "filepath": "screenshots/52-Albertsons.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.thewaltdisneycompany.com",
+      "en.wikipedia.org › wiki › Walt_Disney",
+      "disneyworld.disney.go.com"
+    ],
+    "company": "Walt Disney",
+    "position": 53,
+    "filepath": "screenshots/53-Walt Disney.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.sysco.com",
+      "en.wikipedia.org › wiki › Sysco",
+      "www.esysco.net"
+    ],
+    "company": "Sysco",
+    "position": 54,
+    "filepath": "screenshots/54-Sysco.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "store.hp.com/presidents'-day",
+      "www8.hp.com › ...",
+      "www.hpe.com › ..."
+    ],
+    "company": "HP",
+    "position": 55,
+    "filepath": "screenshots/55-HP.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "shop.humana.com/",
+      "www.humana-medicaresupplement.com/ConsultAgents/FreeQuotes",
+      "www.humana.com"
+    ],
+    "company": "Humana",
+    "position": 56,
+    "filepath": "screenshots/56-Humana.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.facebook.com",
+      "https://twitter.com/Facebook",
+      "about.fb.com › news"
+    ],
+    "company": "Facebook",
+    "position": 57,
+    "filepath": "screenshots/57-Facebook.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.caterpillar.com",
+      "www.cat.com › en_US",
+      "www.cat.com"
+    ],
+    "company": "Caterpillar",
+    "position": 58,
+    "filepath": "screenshots/58-Caterpillar.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "Albuquerque Journal",
+      "San Antonio Express-News",
+      "Yahoo Finance",
+      "www.energytransfer.com"
+    ],
+    "company": "Energy Transfer",
+    "position": 59,
+    "filepath": "screenshots/59-Energy Transfer.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.lockheedmartin.com › en-us",
+      "www.lockheedmartin.com › en-us › who-we-are"
+    ],
+    "company": "Lockheed Martin",
+    "position": 60,
+    "filepath": "screenshots/60-Lockheed Martin.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.pfizer.com"
+    ],
+    "company": "Pfizer",
+    "position": 61,
+    "filepath": "screenshots/61-Pfizer.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "https://www.goldmansachs.com",
+      "https://en.wikipedia.org › wiki › Goldman_Sachs",
+      "https://www.bloomberg.com › profile › company › GS:US",
+      "https://www.bloomberg.com › quote › GS:US",
+      "https://www.forbes.com › companies › goldman-sachs-group"
+    ],
+    "company": "Goldman Sachs Group",
+    "position": 62,
+    "filepath": "screenshots/62-Goldman Sachs Group.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.morganstanley.com/",
+      "www.morganstanley.com",
+      "www.morganstanleyclientserv.com"
+    ],
+    "company": "Morgan Stanley",
+    "position": 63,
+    "filepath": "screenshots/63-Morgan Stanley.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.cisco.com",
+      "en.wikipedia.org › wiki › Cisco_Systems"
+    ],
+    "company": "Cisco Systems",
+    "position": 64,
+    "filepath": "screenshots/64-Cisco Systems.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.cigna.com",
+      "www.cignahealthbenefits.com"
+    ],
+    "company": "Cigna",
+    "position": 65,
+    "filepath": "screenshots/65-Cigna.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.aigdirect.com/",
+      "www.aig.com"
+    ],
+    "company": "AIG",
+    "position": 66,
+    "filepath": "screenshots/66-AIG.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "hcahealthcare.com"
+    ],
+    "company": "HCA Healthcare",
+    "position": 67,
+    "filepath": "screenshots/67-HCA Healthcare.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.aa.com › customer-service › programs-products › group-meetin...",
+      "www.aa.com › customer-service › about-us › american-airlines-group",
+      "www.aa.com"
+    ],
+    "company": "American Airlines Group",
+    "position": 68,
+    "filepath": "screenshots/68-American Airlines Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.delta.com",
+      "CNN.com",
+      "Forbes",
+      "Yahoo Finance"
+    ],
+    "company": "Delta Air Lines",
+    "position": 69,
+    "filepath": "screenshots/69-Delta Air Lines.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.spectrum.com",
+      "www.spectrum.net"
+    ],
+    "company": "Charter Communications",
+    "position": 70,
+    "filepath": "screenshots/70-Charter Communications.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.newyorklife.com/New-York/Life-Insurance",
+      "www.healthiq.com/Life-Insurance/Term-Quote",
+      "www.newyorklife.com"
+    ],
+    "company": "New York Life Insurance",
+    "position": 71,
+    "filepath": "screenshots/71-New York Life Insurance.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.americanexpress.com/",
+      "www.americanexpress.com",
+      "www.serve.com"
+    ],
+    "company": "American Express",
+    "position": 72,
+    "filepath": "screenshots/72-American Express.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.nationwide.com/",
+      "www.free-insurance-quotes.us/Nationwide",
+      "www.nationwide.com"
+    ],
+    "company": "Nationwide",
+    "position": 73,
+    "filepath": "screenshots/73-Nationwide.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.bestbuy.com/",
+      "www.bestbuy.com",
+      "www.bestbuy-jobs.com"
+    ],
+    "company": "Best Buy",
+    "position": 74,
+    "filepath": "screenshots/74-Best Buy.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.libertymutual.com/",
+      "www.libertymutual.com",
+      "www.libertymutual.com › about-us"
+    ],
+    "company": "Liberty Mutual Insurance Group",
+    "position": 75,
+    "filepath": "screenshots/75-Liberty Mutual Insurance Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.merck.com",
+      "BioSpace",
+      "The Motley Fool",
+      "Yahoo Finance"
+    ],
+    "company": "Merck",
+    "position": 76,
+    "filepath": "screenshots/76-Merck.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.honeywell.com",
+      "en.wikipedia.org › wiki › Honeywell",
+      "www.bloomberg.com › profile › company › HON:US"
+    ],
+    "company": "Honeywell International",
+    "position": 77,
+    "filepath": "screenshots/77-Honeywell International.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "en.wikipedia.org › wiki › United_Airlines_Holdings",
+      "ir.united.com › investor-relations",
+      "www.united.com"
+    ],
+    "company": "United Continental Holdings",
+    "position": 78,
+    "filepath": "screenshots/78-United Continental Holdings.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.tiaa.org/",
+      "www.tiaa.org › public"
+    ],
+    "company": "TIAA",
+    "position": 79,
+    "filepath": "screenshots/79-TIAA.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.tysonfoods.com",
+      "www.tyson.com"
+    ],
+    "company": "Tyson Foods",
+    "position": 80,
+    "filepath": "screenshots/80-Tyson Foods.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.oracle.com"
+    ],
+    "company": "Oracle",
+    "position": 81,
+    "filepath": "screenshots/81-Oracle.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.allstate.com/",
+      "www.allstate.com",
+      "https://twitter.com/Allstate"
+    ],
+    "company": "Allstate",
+    "position": 82,
+    "filepath": "screenshots/82-Allstate.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.wfscorp.com › ...",
+      "en.wikipedia.org › wiki › World_Fuel_Services",
+      "www.linkedin.com › company › world-fuel-services"
+    ],
+    "company": "World Fuel Services",
+    "position": 83,
+    "filepath": "screenshots/83-World Fuel Services.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.massmutual.com/",
+      "www.massmutual.com"
+    ],
+    "company": "Massachusetts Mutual Life Insurance",
+    "position": 84,
+    "filepath": "screenshots/84-Massachusetts Mutual Life Insurance.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.tjx.com",
+      "www.synchronycredit.com › eSecurity › Login › login.action › client...",
+      "en.wikipedia.org › wiki › TJX_Companies"
+    ],
+    "company": "TJX",
+    "position": 85,
+    "filepath": "screenshots/85-TJX.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.conocophillips.com",
+      "en.wikipedia.org › wiki › ConocoPhillips"
+    ],
+    "company": "ConocoPhillips",
+    "position": 86,
+    "filepath": "screenshots/86-ConocoPhillips.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.deere.com › ...",
+      "https://twitter.com/JohnDeere",
+      "www.wired.com › 2015/04 › dmca-ownership-john-deere"
+    ],
+    "company": "Deere",
+    "position": 87,
+    "filepath": "screenshots/87-Deere.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.techdata.com",
+      "en.wikipedia.org › wiki › Tech_Data"
+    ],
+    "company": "Tech Data",
+    "position": 88,
+    "filepath": "screenshots/88-Tech Data.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.enterpriseproducts.com",
+      "en.wikipedia.org › wiki › Enterprise_Products",
+      "finance.yahoo.com › quote › EPD"
+    ],
+    "company": "Enterprise Products Partners",
+    "position": 89,
+    "filepath": "screenshots/89-Enterprise Products Partners.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.nike.com/",
+      "www.nike.com",
+      "www.facebook.com › ... › Clothing Store › Sportswear Store"
+    ],
+    "company": "Nike",
+    "position": 90,
+    "filepath": "screenshots/90-Nike.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.publix.com",
+      "Miami Herald",
+      "PR Newswire",
+      "Winsight Grocery Business"
+    ],
+    "company": "Publix Super Markets",
+    "position": 91,
+    "filepath": "screenshots/91-Publix Super Markets.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.gd.com",
+      "gdmissionsystems.com",
+      "en.wikipedia.org › wiki › General_Dynamics"
+    ],
+    "company": "General Dynamics",
+    "position": 92,
+    "filepath": "screenshots/92-General Dynamics.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.exeloncorp.com"
+    ],
+    "company": "Exelon",
+    "position": 93,
+    "filepath": "screenshots/93-Exelon.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.plainsallamerican.com › about-us › leadership › plains-gp-holdi...",
+      "www.plainsallamerican.com",
+      "ir.pagp.com"
+    ],
+    "company": "Plains GP Holdings",
+    "position": 94,
+    "filepath": "screenshots/94-Plains GP Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.3m.com",
+      "en.wikipedia.org › wiki › 3M"
+    ],
+    "company": "3M",
+    "position": 95,
+    "filepath": "screenshots/95-3M.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.abbvie.com/",
+      "www.abbvie.com"
+    ],
+    "company": "AbbVie",
+    "position": 96,
+    "filepath": "screenshots/96-AbbVie.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.chsinc.com",
+      "www.chsnewyorkcity.com",
+      "www.cedars-sinai.org › health-library › diseases-and-conditions › can..."
+    ],
+    "company": "CHS",
+    "position": 97,
+    "filepath": "screenshots/97-CHS.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.capitalone.com/",
+      "www.capitalone.com",
+      "www.bloomberg.com › profile › company › COF:US"
+    ],
+    "company": "Capital One Financial",
+    "position": 98,
+    "filepath": "screenshots/98-Capital One Financial.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.progressive.com/",
+      "www.progressive.com"
+    ],
+    "company": "Progressive",
+    "position": 99,
+    "filepath": "screenshots/99-Progressive.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "us.coca-cola.com",
+      "www.coca-cola.com",
+      "www.coca-colacompany.com › ..."
+    ],
+    "company": "Coca-Cola",
+    "position": 100,
+    "filepath": "screenshots/100-Coca-Cola.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.usaa.com/",
+      "www.usaa.com"
+    ],
+    "company": "USAA",
+    "position": 101,
+    "filepath": "screenshots/101-USAA.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.hpe.com/",
+      "www.hpe.com › ..."
+    ],
+    "company": "Hewlett Packard Enterprise",
+    "position": 102,
+    "filepath": "screenshots/102-Hewlett Packard Enterprise.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.abbott.com",
+      "en.wikipedia.org › wiki › Abbott_Laboratories"
+    ],
+    "company": "Abbott Laboratories",
+    "position": 103,
+    "filepath": "screenshots/103-Abbott Laboratories.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.thewaltdisneycompany.com › ...",
+      "en.wikipedia.org › wiki › 21st_Century_Fox",
+      "en.wikipedia.org › wiki › Acquisition_of_21st_Century_Fox_by_Dis..."
+    ],
+    "company": "Twenty-First Century Fox",
+    "position": 104,
+    "filepath": "screenshots/104-Twenty-First Century Fox.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "https://www.micron.com"
+    ],
+    "company": "Micron Technology",
+    "position": 105,
+    "filepath": "screenshots/105-Micron Technology.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.travelers.com/",
+      "www.travelers.com",
+      "www.imdb.com › title"
+    ],
+    "company": "Travelers",
+    "position": 106,
+    "filepath": "screenshots/106-Travelers.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.riteaid.com/shop/online",
+      "www.riteaid.com"
+    ],
+    "company": "Rite Aid",
+    "position": 107,
+    "filepath": "screenshots/107-Rite Aid.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.northropgrumman.com",
+      "en.wikipedia.org › wiki › Northrop_Grumman"
+    ],
+    "company": "Northrop Grumman",
+    "position": 108,
+    "filepath": "screenshots/108-Northrop Grumman.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.arrow.com",
+      "en.wikipedia.org › wiki › Arrow_Electronics"
+    ],
+    "company": "Arrow Electronics",
+    "position": 109,
+    "filepath": "screenshots/109-Arrow Electronics.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.pmi.com",
+      "www.pmi.com › who-we-are › overview",
+      "www.pmi.com › careers › overview"
+    ],
+    "company": "Philip Morris International",
+    "position": 110,
+    "filepath": "screenshots/110-Philip Morris International.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.northwesternmutual.com/",
+      "www.northwesternmutual.com"
+    ],
+    "company": "Northwestern Mutual",
+    "position": 111,
+    "filepath": "screenshots/111-Northwestern Mutual.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.intlfcstone.com",
+      "en.wikipedia.org › wiki › INTL_FCStone",
+      "https://twitter.com/INTLFCStone"
+    ],
+    "company": "INTL FCStone",
+    "position": 112,
+    "filepath": "screenshots/112-INTL FCStone.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.pbfenergy.com"
+    ],
+    "company": "PBF Energy",
+    "position": 113,
+    "filepath": "screenshots/113-PBF Energy.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.raytheon.com",
+      "en.wikipedia.org › wiki › Raytheon"
+    ],
+    "company": "Raytheon",
+    "position": 114,
+    "filepath": "screenshots/114-Raytheon.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.kraftheinzcompany.com",
+      "Barron's",
+      "Business Wire",
+      "Seeking Alpha"
+    ],
+    "company": "Kraft Heinz",
+    "position": 115,
+    "filepath": "screenshots/115-Kraft Heinz.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.mondelezinternational.com",
+      "en.wikipedia.org › wiki › Mondelez_International"
+    ],
+    "company": "Mondelez International",
+    "position": 116,
+    "filepath": "screenshots/116-Mondelez International.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.usbank.com › about-us-bank",
+      "www.usbank.com",
+      "en.wikipedia.org › wiki › U.S._Bancorp"
+    ],
+    "company": "U.S. Bancorp",
+    "position": 117,
+    "filepath": "screenshots/117-U.S. Bancorp.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.macys.com/",
+      "www.macys.com"
+    ],
+    "company": "Macy's",
+    "position": 118,
+    "filepath": "screenshots/118-Macy's.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.dollargeneral.com/",
+      "www.dollargeneral.com",
+      "dg.coupons.com › signin"
+    ],
+    "company": "Dollar General",
+    "position": 119,
+    "filepath": "screenshots/119-Dollar General.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "nucor.com",
+      "en.wikipedia.org › wiki › Nucor"
+    ],
+    "company": "Nucor",
+    "position": 120,
+    "filepath": "screenshots/120-Nucor.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.starbucks.com",
+      "www.facebook.com › Starbucks",
+      "www.instagram.com › starbucks"
+    ],
+    "company": "Starbucks",
+    "position": 121,
+    "filepath": "screenshots/121-Starbucks.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.dxc.technology"
+    ],
+    "company": "DXC Technology",
+    "position": 122,
+    "filepath": "screenshots/122-DXC Technology.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.lilly.com",
+      "en.wikipedia.org › wiki › Eli_Lilly_and_Company"
+    ],
+    "company": "Eli Lilly",
+    "position": 123,
+    "filepath": "screenshots/123-Eli Lilly.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.thermofisher.com › ..."
+    ],
+    "company": "Thermo Fisher Scientific",
+    "position": 124,
+    "filepath": "screenshots/124-Thermo Fisher Scientific.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.usfoods.com › about-us-foods",
+      "www.usfoods.com",
+      "www.usfoods.com › investors"
+    ],
+    "company": "US Foods Holding",
+    "position": 125,
+    "filepath": "screenshots/125-US Foods Holding.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.duke-energy.com › ..."
+    ],
+    "company": "Duke Energy",
+    "position": 126,
+    "filepath": "screenshots/126-Duke Energy.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "https://www.halliburton.com",
+      "https://twitter.com/Halliburton",
+      "https://en.wikipedia.org › wiki › Halliburton"
+    ],
+    "company": "Halliburton",
+    "position": 127,
+    "filepath": "screenshots/127-Halliburton.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.cummins.com"
+    ],
+    "company": "Cummins",
+    "position": 128,
+    "filepath": "screenshots/128-Cummins.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.amgen.com"
+    ],
+    "company": "Amgen",
+    "position": 129,
+    "filepath": "screenshots/129-Amgen.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.paccar.com",
+      "en.wikipedia.org › wiki › Paccar"
+    ],
+    "company": "Paccar",
+    "position": 130,
+    "filepath": "screenshots/130-Paccar.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.southernct.edu",
+      "www.southern.edu",
+      "www.srsd.net"
+    ],
+    "company": "Southern",
+    "position": 131,
+    "filepath": "screenshots/131-Southern.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.centurylink.com",
+      "centurylink.net"
+    ],
+    "company": "CenturyLink",
+    "position": 132,
+    "filepath": "screenshots/132-CenturyLink.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.internationalpaper.com"
+    ],
+    "company": "International Paper",
+    "position": 133,
+    "filepath": "screenshots/133-International Paper.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.up.com",
+      "en.wikipedia.org › wiki › Union_Pacific_Railroad",
+      "up.jobs"
+    ],
+    "company": "Union Pacific",
+    "position": 134,
+    "filepath": "screenshots/134-Union Pacific.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.dollartree.com"
+    ],
+    "company": "Dollar Tree",
+    "position": 135,
+    "filepath": "screenshots/135-Dollar Tree.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.penskeautomotive.com"
+    ],
+    "company": "Penske Automotive Group",
+    "position": 136,
+    "filepath": "screenshots/136-Penske Automotive Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "https://www.qualcomm.com",
+      "The Verge",
+      "AnandTech",
+      "Yahoo Finance",
+      "The San Diego Union-Tribune"
+    ],
+    "company": "Qualcomm",
+    "position": 137,
+    "filepath": "screenshots/137-Qualcomm.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.bms.com"
+    ],
+    "company": "Bristol-Myers Squibb",
+    "position": 138,
+    "filepath": "screenshots/138-Bristol-Myers Squibb.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "https://www.gilead.com",
+      "The Motley Fool",
+      "Wall Street Journal",
+      "FierceBiotech",
+      "The Motley Fool"
+    ],
+    "company": "Gilead Sciences",
+    "position": 139,
+    "filepath": "screenshots/139-Gilead Sciences.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.jabil.com"
+    ],
+    "company": "Jabil",
+    "position": 140,
+    "filepath": "screenshots/140-Jabil.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.manpowergroup.com",
+      "www.manpower.com › ManpowerUSA"
+    ],
+    "company": "ManpowerGroup",
+    "position": 141,
+    "filepath": "screenshots/141-ManpowerGroup.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.southwest.com"
+    ],
+    "company": "Southwest Airlines",
+    "position": 142,
+    "filepath": "screenshots/142-Southwest Airlines.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.aflac.com/",
+      "www.aflacplans.com/",
+      "www.aflac.com"
+    ],
+    "company": "Aflac",
+    "position": 143,
+    "filepath": "screenshots/143-Aflac.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "Electrek",
+      "Electrek",
+      "CleanTechnica",
+      "Seeking Alpha",
+      "Teslarati.com"
+    ],
+    "company": "Tesla",
+    "position": 144,
+    "filepath": "screenshots/144-Tesla.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.autonation.com",
+      "en.wikipedia.org › wiki › AutoNation",
+      "www.autonationusa.com"
+    ],
+    "company": "AutoNation",
+    "position": 145,
+    "filepath": "screenshots/145-AutoNation.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.cbre.us",
+      "en.wikipedia.org › wiki › CBRE_Group",
+      "www.cbre.com › about › corporate-information"
+    ],
+    "company": "CBRE Group",
+    "position": 146,
+    "filepath": "screenshots/146-CBRE Group.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "offers.learcapital.com/",
+      "www.lear.com"
+    ],
+    "company": "Lear",
+    "position": 147,
+    "filepath": "screenshots/147-Lear.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.whirlpool.com",
+      "www.whirlpoolcorp.com",
+      "en.wikipedia.org › wiki › Whirlpool_Corporation"
+    ],
+    "company": "Whirlpool",
+    "position": 148,
+    "filepath": "screenshots/148-Whirlpool.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.mcdonalds.com › en-us",
+      "https://twitter.com/McDonalds"
+    ],
+    "company": "McDonald's",
+    "position": 149,
+    "filepath": "screenshots/149-McDonald's.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.broadcom.com",
+      "en.wikipedia.org › wiki › Broadcom_Inc"
+    ],
+    "company": "Broadcom",
+    "position": 150,
+    "filepath": "screenshots/150-Broadcom.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.marriott.com/Book/Now",
+      "www.marriott.com",
+      "en.wikipedia.org › wiki › Marriott_International"
+    ],
+    "company": "Marriott International",
+    "position": 151,
+    "filepath": "screenshots/151-Marriott International.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.westerndigital.com",
+      "en.wikipedia.org › wiki › Western_Digital"
+    ],
+    "company": "Western Digital",
+    "position": 152,
+    "filepath": "screenshots/152-Western Digital.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.comparecredit.com/cards/visa",
+      "usa.visa.com",
+      "travel.state.gov › content › travel › us-visas"
+    ],
+    "company": "Visa",
+    "position": 153,
+    "filepath": "screenshots/153-Visa.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.lennar.com",
+      "en.wikipedia.org › wiki › Lennar_Corporation",
+      "therealdeal.com › national › 2019/06/12 › lennar-closes-1-3b-fund-to..."
+    ],
+    "company": "Lennar",
+    "position": 154,
+    "filepath": "screenshots/154-Lennar.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "en.wikipedia.org › wiki › WellCare"
+    ],
+    "company": "WellCare Health Plans",
+    "position": 155,
+    "filepath": "screenshots/155-WellCare Health Plans.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.kohls.com/",
+      "https://www.kohls.com"
+    ],
+    "company": "Kohl's",
+    "position": 156,
+    "filepath": "screenshots/156-Kohl's.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.aecom.com",
+      "StreetInsider.com",
+      "InvestorsObserver",
+      "Construction News"
+    ],
+    "company": "AECOM",
+    "position": 157,
+    "filepath": "screenshots/157-AECOM.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.synnexcorp.com",
+      "www.synnexcorp.com › ...",
+      "ec.synnex.com › ecx"
+    ],
+    "company": "Synnex",
+    "position": 158,
+    "filepath": "screenshots/158-Synnex.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.pnc.com/",
+      "www.pnc.com › about-pnc",
+      "www.pnc.com › personal-banking"
+    ],
+    "company": "PNC Financial Services",
+    "position": 159,
+    "filepath": "screenshots/159-PNC Financial Services.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.danaher.com"
+    ],
+    "company": "Danaher",
+    "position": 160,
+    "filepath": "screenshots/160-Danaher.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.thehartford.com › ... › Business Insurance Solutions by Industry",
+      "www.thehartford.com",
+      "en.wikipedia.org › wiki › The_Hartford"
+    ],
+    "company": "Hartford Financial Services",
+    "position": 161,
+    "filepath": "screenshots/161-Hartford Financial Services.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.altria.com › ..."
+    ],
+    "company": "Altria Group",
+    "position": 162,
+    "filepath": "screenshots/162-Altria Group.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.bnymellon.com/",
+      "www.bnymellon.com"
+    ],
+    "company": "Bank of New York Mellon",
+    "position": 163,
+    "filepath": "screenshots/163-Bank of New York Mellon.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.fluor.com",
+      "ENR",
+      "TheStreet",
+      "The Business Journals"
+    ],
+    "company": "Fluor",
+    "position": 164,
+    "filepath": "screenshots/164-Fluor.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.avnet.com › wps › portal",
+      "www.avnet.com › wps › portal › silica",
+      "en.wikipedia.org › wiki › Avnet"
+    ],
+    "company": "Avnet",
+    "position": 165,
+    "filepath": "screenshots/165-Avnet.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ielp.com › ...",
+      "www.ielp.com › investor-relations",
+      "en.wikipedia.org › wiki › Icahn_Enterprises"
+    ],
+    "company": "Icahn Enterprises",
+    "position": 166,
+    "filepath": "screenshots/166-Icahn Enterprises.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.oxy.com › Pages",
+      "Seeking Alpha",
+      "Yahoo Finance",
+      "Enterprise Echo"
+    ],
+    "company": "Occidental Petroleum",
+    "position": 167,
+    "filepath": "screenshots/167-Occidental Petroleum.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "m.molinahealthcare.com › pages",
+      "www.molinahealthcare.com › en-us › pages"
+    ],
+    "company": "Molina Healthcare",
+    "position": 168,
+    "filepath": "screenshots/168-Molina Healthcare.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.genpt.com",
+      "en.wikipedia.org › wiki › Genuine_Parts_Company",
+      "genuineparts.investorroom.com"
+    ],
+    "company": "Genuine Parts",
+    "position": 169,
+    "filepath": "screenshots/169-Genuine Parts.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.fcx.com",
+      "en.wikipedia.org › wiki › Freeport-McMoRan",
+      "finance.yahoo.com › quote › FCX"
+    ],
+    "company": "Freeport-McMoRan",
+    "position": 170,
+    "filepath": "screenshots/170-Freeport-McMoRan.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.kimberly-clark.com › ...",
+      "www.kcprofessional.com",
+      "www.kcprofessional.com › en-us"
+    ],
+    "company": "Kimberly-Clark",
+    "position": 171,
+    "filepath": "screenshots/171-Kimberly-Clark.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.tenethealth.com"
+    ],
+    "company": "Tenet Healthcare",
+    "position": 172,
+    "filepath": "screenshots/172-Tenet Healthcare.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.synchrony.com",
+      "www.mysynchrony.com",
+      "www.mysynchrony.com › mysyf › home › cardholder_index"
+    ],
+    "company": "Synchrony Financial",
+    "position": 173,
+    "filepath": "screenshots/173-Synchrony Financial.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.carmax.com",
+      "https://twitter.com/CarMax"
+    ],
+    "company": "CarMax",
+    "position": 174,
+    "filepath": "screenshots/174-CarMax.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.hollyfrontier.com › home",
+      "www.hollyfrontier.com › about-us › company-history",
+      "en.wikipedia.org › wiki › HollyFrontier"
+    ],
+    "company": "HollyFrontier",
+    "position": 175,
+    "filepath": "screenshots/175-HollyFrontier.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.pfgc.com",
+      "www.performancefoodservice.com",
+      "www.performancefoodservice.com › Our-Locations › Metro-NY"
+    ],
+    "company": "Performance Food Group",
+    "position": 176,
+    "filepath": "screenshots/176-Performance Food Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.sherwin-williams.com",
+      "en.wikipedia.org › wiki › Sherwin-Williams"
+    ],
+    "company": "Sherwin-Williams",
+    "position": 177,
+    "filepath": "screenshots/177-Sherwin-Williams.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.emerson.com › en-us",
+      "www.emerson.com › en-us › about-us",
+      "www.emerson.com › en-us › contact-us"
+    ],
+    "company": "Emerson Electric",
+    "position": 178,
+    "filepath": "screenshots/178-Emerson Electric.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.nglenergypartners.com"
+    ],
+    "company": "NGL Energy Partners",
+    "position": 179,
+    "filepath": "screenshots/179-NGL Energy Partners.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.xpo.com"
+    ],
+    "company": "XPO Logistics",
+    "position": 180,
+    "filepath": "screenshots/180-XPO Logistics.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.eogresources.com"
+    ],
+    "company": "EOG Resources",
+    "position": 181,
+    "filepath": "screenshots/181-EOG Resources.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.appliedmaterials.com"
+    ],
+    "company": "Applied Materials",
+    "position": 182,
+    "filepath": "screenshots/182-Applied Materials.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "The Business Journals",
+      "The Motley Fool",
+      "The Motley Fool",
+      "The Business Journals",
+      "The Business Journals"
+    ],
+    "company": "PG&E",
+    "position": 183,
+    "filepath": "screenshots/183-PG&E.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.nexteraenergy.com",
+      "Yahoo Finance",
+      "Yahoo Finance",
+      "Post and Courier"
+    ],
+    "company": "NextEra Energy",
+    "position": 184,
+    "filepath": "screenshots/184-NextEra Energy.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.chrobinson.com",
+      "en.wikipedia.org › wiki › C._H._Robinson"
+    ],
+    "company": "C.H. Robinson Worldwide",
+    "position": 185,
+    "filepath": "screenshots/185-C.H. Robinson Worldwide.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.gap.com/",
+      "www.gap.com",
+      "www.gapfactory.com"
+    ],
+    "company": "Gap",
+    "position": 186,
+    "filepath": "screenshots/186-Gap.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.lfg.com › public › individual",
+      "hub2.lfg.com"
+    ],
+    "company": "Lincoln National",
+    "position": 187,
+    "filepath": "screenshots/187-Lincoln National.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.davita.com/MyDaVita",
+      "www.davita.com",
+      "www.glassdoor.com › Salaries › New York City"
+    ],
+    "company": "DaVita",
+    "position": 188,
+    "filepath": "screenshots/188-DaVita.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.us.jll.com"
+    ],
+    "company": "Jones Lang LaSalle",
+    "position": 189,
+    "filepath": "screenshots/189-Jones Lang LaSalle.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.westrock.com",
+      "https://twitter.com/WestRock"
+    ],
+    "company": "WestRock",
+    "position": 190,
+    "filepath": "screenshots/190-WestRock.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.cdw.com/",
+      "www.cdw.com",
+      "www.cdwg.com"
+    ],
+    "company": "CDW",
+    "position": 191,
+    "filepath": "screenshots/191-CDW.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.aep.com",
+      "en.wikipedia.org › wiki › American_Electric_Power",
+      "www.bloomberg.com › profile › company › AEP:US"
+    ],
+    "company": "American Electric Power",
+    "position": 192,
+    "filepath": "screenshots/192-American Electric Power.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.cognizant.com/",
+      "www.cognizant.com",
+      "en.wikipedia.org › wiki › Cognizant"
+    ],
+    "company": "Cognizant Technology Solutions",
+    "position": 193,
+    "filepath": "screenshots/193-Cognizant Technology Solutions.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.drhorton.com"
+    ],
+    "company": "D.R. Horton",
+    "position": 194,
+    "filepath": "screenshots/194-D.R. Horton.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.bd.com › en-us",
+      "jobs.bd.com",
+      "en.wikipedia.org › wiki › Becton_Dickinson"
+    ],
+    "company": "Becton Dickinson",
+    "position": 195,
+    "filepath": "screenshots/195-Becton Dickinson.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "shop.nordstrom.com/",
+      "shop.nordstrom.com",
+      "shop.nordstrom.com › Sale"
+    ],
+    "company": "Nordstrom",
+    "position": 196,
+    "filepath": "screenshots/196-Nordstrom.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.netflix.com"
+    ],
+    "company": "Netflix",
+    "position": 197,
+    "filepath": "screenshots/197-Netflix.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "shop.aramarkuniform.com/",
+      "www.aramark.com"
+    ],
+    "company": "Aramark",
+    "position": 198,
+    "filepath": "screenshots/198-Aramark.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ti.com",
+      "https://twitter.com/TXInstruments",
+      "en.wikipedia.org › wiki › Texas_Instruments"
+    ],
+    "company": "Texas Instruments",
+    "position": 199,
+    "filepath": "screenshots/199-Texas Instruments.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.generalmills.com",
+      "en.wikipedia.org › wiki › General_Mills"
+    ],
+    "company": "General Mills",
+    "position": 200,
+    "filepath": "screenshots/200-General Mills.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "https://www.supervalu.com",
+      "https://en.wikipedia.org › wiki › SuperValu_(United_States)"
+    ],
+    "company": "Supervalu",
+    "position": 201,
+    "filepath": "screenshots/201-Supervalu.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.colgatepalmolive.com › en-us",
+      "www.colgate.com › en-us",
+      "en.wikipedia.org › wiki › Colgate-Palmolive"
+    ],
+    "company": "Colgate-Palmolive",
+    "position": 202,
+    "filepath": "screenshots/202-Colgate-Palmolive.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.goodyearautoservice.com/",
+      "www.goodyear.com",
+      "www.goodyearautoservice.com"
+    ],
+    "company": "Goodyear Tire & Rubber",
+    "position": 203,
+    "filepath": "screenshots/203-Goodyear Tire & Rubber.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "investor.paypal-corp.com › investor-relations",
+      "www.bloomberg.com › profile › company › PYPL:US",
+      "finance.yahoo.com › quote › PYPL"
+    ],
+    "company": "PayPal Holdings",
+    "position": 204,
+    "filepath": "screenshots/204-PayPal Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ppg.com",
+      "en.wikipedia.org › wiki › PPG_Industries"
+    ],
+    "company": "PPG Industries",
+    "position": 205,
+    "filepath": "screenshots/205-PPG Industries.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.omnicomgroup.com",
+      "en.wikipedia.org › wiki › Omnicom_Group"
+    ],
+    "company": "Omnicom Group",
+    "position": 206,
+    "filepath": "screenshots/206-Omnicom Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.celgene.com"
+    ],
+    "company": "Celgene",
+    "position": 207,
+    "filepath": "screenshots/207-Celgene.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.jacobs.com",
+      "en.wikipedia.org › wiki › Jacobs_Engineering_Group"
+    ],
+    "company": "Jacobs Engineering Group",
+    "position": 208,
+    "filepath": "screenshots/208-Jacobs Engineering Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.rossstores.com"
+    ],
+    "company": "Ross Stores",
+    "position": 209,
+    "filepath": "screenshots/209-Ross Stores.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.marsh.com"
+    ],
+    "company": "Marsh & McLennan",
+    "position": 210,
+    "filepath": "screenshots/210-Marsh & McLennan.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.mastercard.us › en-us",
+      "www.mastercard.us › en-us › consumers › find-card-products › maste..."
+    ],
+    "company": "Mastercard",
+    "position": 211,
+    "filepath": "screenshots/211-Mastercard.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.landolakesinc.com",
+      "www.landolakes.com"
+    ],
+    "company": "Land O'Lakes",
+    "position": 212,
+    "filepath": "screenshots/212-Land O'Lakes.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.wm.com/",
+      "www.wm.com › myhome",
+      "www.wm.com › home › residential-home"
+    ],
+    "company": "Waste Management",
+    "position": 213,
+    "filepath": "screenshots/213-Waste Management.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.itw.com",
+      "en.wikipedia.org › wiki › Illinois_Tool_Works",
+      "finance.yahoo.com › quote › ITW"
+    ],
+    "company": "Illinois Tool Works",
+    "position": 214,
+    "filepath": "screenshots/214-Illinois Tool Works.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ecolab.com",
+      "https://twitter.com/Ecolab",
+      "en.wikipedia.org › wiki › Ecolab"
+    ],
+    "company": "Ecolab",
+    "position": 215,
+    "filepath": "screenshots/215-Ecolab.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.bookingholdings.com",
+      "www.bookingholdings.com › about › factsheet",
+      "www.bookingholdings.com › brands › booking"
+    ],
+    "company": "Booking Holdings",
+    "position": 216,
+    "filepath": "screenshots/216-Booking Holdings.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.cbs.com/all-access",
+      "www.cbs.com",
+      "www.cbsnews.com"
+    ],
+    "company": "CBS",
+    "position": 217,
+    "filepath": "screenshots/217-CBS.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.parker.com",
+      "en.wikipedia.org › wiki › Parker_Hannifin",
+      "www.linkedin.com › company › parker-hannifin"
+    ],
+    "company": "Parker-Hannifin",
+    "position": 218,
+    "filepath": "screenshots/218-Parker-Hannifin.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.principal.com",
+      "www.principalfunds.com › customer-support › help-topics › login-ass..."
+    ],
+    "company": "Principal Financial",
+    "position": 219,
+    "filepath": "screenshots/219-Principal Financial.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.dteenergy.com",
+      "www.facebook.com › ... › Detroit, Michigan › Public Utility Company",
+      "en.wikipedia.org › wiki › DTE_Energy"
+    ],
+    "company": "DTE Energy",
+    "position": 220,
+    "filepath": "screenshots/220-DTE Energy.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.blackrock.com/",
+      "www.blackrock.com",
+      "en.wikipedia.org › wiki › BlackRock"
+    ],
+    "company": "BlackRock",
+    "position": 221,
+    "filepath": "screenshots/221-BlackRock.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ussteel.com",
+      "www.ussteel.com › work › jobs"
+    ],
+    "company": "United States Steel",
+    "position": 222,
+    "filepath": "screenshots/222-United States Steel.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.chs.net",
+      "en.wikipedia.org › wiki › Community_Health_Systems"
+    ],
+    "company": "Community Health Systems",
+    "position": 223,
+    "filepath": "screenshots/223-Community Health Systems.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.kindermorgan.com",
+      "en.wikipedia.org › wiki › Kinder_Morgan"
+    ],
+    "company": "Kinder Morgan",
+    "position": 224,
+    "filepath": "screenshots/224-Kinder Morgan.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.qurateretailgroup.com",
+      "www.libertyinteractive.com"
+    ],
+    "company": "Qurate Retail",
+    "position": 225,
+    "filepath": "screenshots/225-Qurate Retail.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.lowes.com/Lowes",
+      "www.loewshotels.com",
+      "www.loewshotels.com › regency-hotel"
+    ],
+    "company": "Loews",
+    "position": 226,
+    "filepath": "screenshots/226-Loews.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.arconic.com",
+      "en.wikipedia.org › wiki › Arconic",
+      "www.marketwatch.com › Industries › Metals/Mining"
+    ],
+    "company": "Arconic",
+    "position": 227,
+    "filepath": "screenshots/227-Arconic.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.stanleyblackanddecker.com",
+      "www.glassdoor.com › New York",
+      "en.wikipedia.org › wiki › Stanley_Black"
+    ],
+    "company": "Stanley Black & Decker",
+    "position": 228,
+    "filepath": "screenshots/228-Stanley Black & Decker.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.textron.com",
+      "https://twitter.com/Textron",
+      "txtav.com"
+    ],
+    "company": "Textron",
+    "position": 229,
+    "filepath": "screenshots/229-Textron.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.sands.com",
+      "en.wikipedia.org › wiki › Las_Vegas_Sands"
+    ],
+    "company": "Las Vegas Sands",
+    "position": 230,
+    "filepath": "screenshots/230-Las Vegas Sands.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.esteelauder.com/",
+      "www.esteelauder.com",
+      "www.esteelauder.com › promotions"
+    ],
+    "company": "Estee Lauder",
+    "position": 231,
+    "filepath": "screenshots/231-Estee Lauder.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.dish.com",
+      "The Verge",
+      "The National Interest",
+      "Fierce Wireless"
+    ],
+    "company": "DISH Network",
+    "position": 232,
+    "filepath": "screenshots/232-DISH Network.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.stryker.com"
+    ],
+    "company": "Stryker",
+    "position": 233,
+    "filepath": "screenshots/233-Stryker.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "https://www.kelloggs.com › en_US",
+      "https://www.kelloggcompany.com › en_US",
+      "https://kelloggsnyc.com",
+      "https://www.kelloggsfamilyrewards.com › en_US",
+      "https://en.wikipedia.org › wiki › Kellogg's"
+    ],
+    "company": "Kellogg",
+    "position": 234,
+    "filepath": "screenshots/234-Kellogg.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.biogen.com › en_us",
+      "FiercePharma",
+      "Axios",
+      "Forbes"
+    ],
+    "company": "Biogen",
+    "position": 235,
+    "filepath": "screenshots/235-Biogen.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.alcoa.com"
+    ],
+    "company": "Alcoa",
+    "position": 236,
+    "filepath": "screenshots/236-Alcoa.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.oxy.com › Pages",
+      "en.wikipedia.org › wiki › Anadarko_Petroleum"
+    ],
+    "company": "Anadarko Petroleum",
+    "position": 237,
+    "filepath": "screenshots/237-Anadarko Petroleum.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.dominionenergy.com",
+      "https://twitter.com/DominionEnergy"
+    ],
+    "company": "Dominion Energy",
+    "position": 238,
+    "filepath": "screenshots/238-Dominion Energy.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.adp.com/",
+      "https://www.adp.com",
+      "https://www.adpemploymentreport.com"
+    ],
+    "company": "ADP",
+    "position": 239,
+    "filepath": "screenshots/239-ADP.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.salesforce.com/",
+      "www.salesforce.com"
+    ],
+    "company": "salesforce.com",
+    "position": 240,
+    "filepath": "screenshots/240-salesforce.com.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "Wall Street Journal",
+      "MarketWatch",
+      "USATODAY.com",
+      "www.lb.com"
+    ],
+    "company": "L Brands",
+    "position": 241,
+    "filepath": "screenshots/241-L Brands.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.henryschein.com",
+      "en.wikipedia.org › wiki › Henry_Schein"
+    ],
+    "company": "Henry Schein",
+    "position": 242,
+    "filepath": "screenshots/242-Henry Schein.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.newellbrands.com",
+      "en.wikipedia.org › wiki › Newell_Brands"
+    ],
+    "company": "Newell Brands",
+    "position": 243,
+    "filepath": "screenshots/243-Newell Brands.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.guardianlife.com",
+      "en.wikipedia.org › wiki › The_Guardian_Life_Insurance_Company_...",
+      "www.bloomberg.com › profile › company"
+    ],
+    "company": "Guardian Life Ins. Co. of America",
+    "position": 244,
+    "filepath": "screenshots/244-Guardian Life Ins. Co. of America.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.bjs.com"
+    ],
+    "company": "BJ's Wholesale Club",
+    "position": 245,
+    "filepath": "screenshots/245-BJ's Wholesale Club.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "Nasdaq News Updates",
+      "Enterprise Echo",
+      "GSMArena.com",
+      "Computerworld",
+      "Business Insider"
+    ],
+    "company": "BB&T Corp.",
+    "position": 246,
+    "filepath": "screenshots/246-BB&T Corp..png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.statestreet.com",
+      "en.wikipedia.org › wiki › State_Street_Corporation",
+      "www.bloomberg.com › profile › company › STT:US"
+    ],
+    "company": "State Street Corp.",
+    "position": 247,
+    "filepath": "screenshots/247-State Street Corp..png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.viacbs.com"
+    ],
+    "company": "Viacom",
+    "position": 248,
+    "filepath": "screenshots/248-Viacom.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.ameriprise.com/",
+      "www.ameriprise.com",
+      "https://twitter.com/ameriprise"
+    ],
+    "company": "Ameriprise Financial",
+    "position": 249,
+    "filepath": "screenshots/249-Ameriprise Financial.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.core-mark.com",
+      "www.core-mark.com › about",
+      "careers.core-mark.com"
+    ],
+    "company": "Core-Mark Holding",
+    "position": 250,
+    "filepath": "screenshots/250-Core-Mark Holding.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "rgare.com",
+      "en.wikipedia.org › wiki › Reinsurance_Group_of_America",
+      "www.linkedin.com › company › rga-reinsurance-group-of-america-in..."
+    ],
+    "company": "Reinsurance Group of America",
+    "position": 251,
+    "filepath": "screenshots/251-Reinsurance Group of America.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.vfc.com › brands"
+    ],
+    "company": "VF",
+    "position": 252,
+    "filepath": "screenshots/252-VF.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.discover.com › company",
+      "www.discover.com",
+      "investorrelations.discover.com › investor-relations › overview"
+    ],
+    "company": "Discover Financial Services",
+    "position": 253,
+    "filepath": "screenshots/253-Discover Financial Services.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.globalp.com",
+      "www1.nyc.gov › site › international › global-partners › global-partners",
+      "www.globalpartnersonline.org"
+    ],
+    "company": "Global Partners",
+    "position": 254,
+    "filepath": "screenshots/254-Global Partners.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.edison.com"
+    ],
+    "company": "Edison International",
+    "position": 255,
+    "filepath": "screenshots/255-Edison International.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.oneok.com",
+      "en.wikipedia.org › wiki › Oneok"
+    ],
+    "company": "Oneok",
+    "position": 256,
+    "filepath": "screenshots/256-Oneok.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.murphyusa.com"
+    ],
+    "company": "Murphy USA",
+    "position": 257,
+    "filepath": "screenshots/257-Murphy USA.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.bedbathandbeyond.com/",
+      "www.bedbathandbeyond.com",
+      "Business Insider"
+    ],
+    "company": "Bed Bath & Beyond",
+    "position": 258,
+    "filepath": "screenshots/258-Bed Bath & Beyond.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "coned.com",
+      "conedison.com",
+      "en.wikipedia.org › wiki › Consolidated_Edison"
+    ],
+    "company": "Consolidated Edison",
+    "position": 259,
+    "filepath": "screenshots/259-Consolidated Edison.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.csx.com",
+      "en.wikipedia.org › wiki › CSX_Transportation"
+    ],
+    "company": "CSX",
+    "position": 260,
+    "filepath": "screenshots/260-CSX.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.jcpenney.com/",
+      "www.jcpenney.com",
+      "en.wikipedia.org › wiki › J._C._Penney"
+    ],
+    "company": "J.C. Penney",
+    "position": 261,
+    "filepath": "screenshots/261-J.C. Penney.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.lkqonline.com/",
+      "www.lkqcorp.com",
+      "www.lkqcorp.com › buyparts"
+    ],
+    "company": "LKQ",
+    "position": 262,
+    "filepath": "screenshots/262-LKQ.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.firstenergycorp.com",
+      "https://twitter.com/firstenergycorp"
+    ],
+    "company": "FirstEnergy",
+    "position": 263,
+    "filepath": "screenshots/263-FirstEnergy.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.steeldynamics.com",
+      "en.wikipedia.org › wiki › Steel_Dynamics",
+      "www.stld-cci.com"
+    ],
+    "company": "Steel Dynamics",
+    "position": 264,
+    "filepath": "screenshots/264-Steel Dynamics.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.lithia.com",
+      "www.lithiamotors.com"
+    ],
+    "company": "Lithia Motors",
+    "position": 265,
+    "filepath": "screenshots/265-Lithia Motors.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.mgmresorts.com › ...",
+      "investors.mgmresorts.com › investors › overview",
+      "www.mgmresorts.com › sign-in"
+    ],
+    "company": "MGM Resorts International",
+    "position": 266,
+    "filepath": "screenshots/266-MGM Resorts International.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.tenneco.com"
+    ],
+    "company": "Tenneco",
+    "position": 267,
+    "filepath": "screenshots/267-Tenneco.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.nvidia.com",
+      "Nvidia",
+      "Nvidia",
+      "NVIDIA Blog"
+    ],
+    "company": "Nvidia",
+    "position": 268,
+    "filepath": "screenshots/268-Nvidia.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.sempra.com"
+    ],
+    "company": "Sempra Energy",
+    "position": 269,
+    "filepath": "screenshots/269-Sempra Energy.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.farmers.com › companies › exchange-update",
+      "www.farmers.com › companies",
+      "www.farmers.com › contact-us"
+    ],
+    "company": "Farmers Insurance Exchange",
+    "position": 270,
+    "filepath": "screenshots/270-Farmers Insurance Exchange.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ball.com",
+      "www.ball.com › Home"
+    ],
+    "company": "Ball",
+    "position": 271,
+    "filepath": "screenshots/271-Ball.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.group1auto.com",
+      "en.wikipedia.org › wiki › Group_1_Automotive",
+      "www.group1corp.com"
+    ],
+    "company": "Group 1 Automotive",
+    "position": 272,
+    "filepath": "screenshots/272-Group 1 Automotive.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.unum.com",
+      "en.wikipedia.org › wiki › Unum"
+    ],
+    "company": "Unum Group",
+    "position": 273,
+    "filepath": "screenshots/273-Unum Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.xcelenergy.com",
+      "https://twitter.com/xcelenergy",
+      "en.wikipedia.org › wiki › Xcel_Energy"
+    ],
+    "company": "Xcel Energy",
+    "position": 274,
+    "filepath": "screenshots/274-Xcel Energy.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.rsac.com",
+      "en.wikipedia.org › wiki › Reliance_Steel_&_Aluminum_Co",
+      "www.linkedin.com › company › reliance-rs"
+    ],
+    "company": "Reliance Steel & Aluminum",
+    "position": 275,
+    "filepath": "screenshots/275-Reliance Steel & Aluminum.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.huntsman.com",
+      "www.huntsman.com › corporate › Careers",
+      "en.wikipedia.org › wiki › Huntsman_Corporation"
+    ],
+    "company": "Huntsman",
+    "position": 276,
+    "filepath": "screenshots/276-Huntsman.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.nscorp.com",
+      "WSLS 10 News",
+      "Railway Track and Structures",
+      "WKBN.com"
+    ],
+    "company": "Norfolk Southern",
+    "position": 277,
+    "filepath": "screenshots/277-Norfolk Southern.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.labcorp.com",
+      "en.wikipedia.org › wiki › LabCorp"
+    ],
+    "company": "Laboratory Corp. of America",
+    "position": 278,
+    "filepath": "screenshots/278-Laboratory Corp. of America.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.corning.com › worldwide",
+      "en.wikipedia.org › wiki › Corning_Inc",
+      "www.cmog.org › research › library › collections › corning-glasswork..."
+    ],
+    "company": "Corning",
+    "position": 279,
+    "filepath": "screenshots/279-Corning.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.expediagroup.com",
+      "en.wikipedia.org › wiki › Expedia_Group",
+      "www.expedia.com"
+    ],
+    "company": "Expedia Group",
+    "position": 280,
+    "filepath": "screenshots/280-Expedia Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.autozone.com",
+      "https://twitter.com/autozone"
+    ],
+    "company": "AutoZone",
+    "position": 281,
+    "filepath": "screenshots/281-AutoZone.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.grainger.com/",
+      "www.grainger.com",
+      "en.wikipedia.org › wiki › W._W._Grainger"
+    ],
+    "company": "W.W. Grainger",
+    "position": 282,
+    "filepath": "screenshots/282-W.W. Grainger.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.quantaservices.com",
+      "en.wikipedia.org › wiki › Quanta_Services",
+      "www.linkedin.com › company › quanta-services"
+    ],
+    "company": "Quanta Services",
+    "position": 283,
+    "filepath": "screenshots/283-Quanta Services.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.crowncork.com",
+      "en.wikipedia.org › wiki › Crown_Holdings",
+      "www.linkedin.com › company › crown-holdings-inc-"
+    ],
+    "company": "Crown Holdings",
+    "position": 284,
+    "filepath": "screenshots/284-Crown Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "https://www.officedepot.com",
+      "https://officedepot.shoplocal.com"
+    ],
+    "company": "Office Depot",
+    "position": 285,
+    "filepath": "screenshots/285-Office Depot.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.baxter.com"
+    ],
+    "company": "Baxter International",
+    "position": 286,
+    "filepath": "screenshots/286-Baxter International.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.lamresearch.com",
+      "en.wikipedia.org › wiki › Lam_Research",
+      "www.linkedin.com › company › lam-research"
+    ],
+    "company": "Lam Research",
+    "position": 287,
+    "filepath": "screenshots/287-Lam Research.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.entergy.com"
+    ],
+    "company": "Entergy",
+    "position": 288,
+    "filepath": "screenshots/288-Entergy.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.schwab.com"
+    ],
+    "company": "Charles Schwab",
+    "position": 289,
+    "filepath": "screenshots/289-Charles Schwab.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.l3t.com",
+      "en.wikipedia.org › wiki › L3_Technologies",
+      "www.l3harris.com › careers"
+    ],
+    "company": "L3 Technologies",
+    "position": 290,
+    "filepath": "screenshots/290-L3 Technologies.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.nrg.com",
+      "en.wikipedia.org › wiki › NRG_Energy"
+    ],
+    "company": "NRG Energy",
+    "position": 291,
+    "filepath": "screenshots/291-NRG Energy.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.livenation.com/",
+      "www.livenationentertainment.com",
+      "www.livenation.com"
+    ],
+    "company": "Live Nation Entertainment",
+    "position": 292,
+    "filepath": "screenshots/292-Live Nation Entertainment.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.uhsinc.com",
+      "Oregon Live",
+      "Yahoo Finance",
+      "KFVS"
+    ],
+    "company": "Universal Health Services",
+    "position": 293,
+    "filepath": "screenshots/293-Universal Health Services.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.molsoncoors.com",
+      "en.wikipedia.org › wiki › Molson_Coors_Brewing_Company",
+      "www.cnn.com › investing › molson-coors-name-change-job-cuts-earnings"
+    ],
+    "company": "Molson Coors Brewing",
+    "position": 294,
+    "filepath": "screenshots/294-Molson Coors Brewing.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ebay.com",
+      "www.ebayinc.com",
+      "play.google.com › store › apps › details › id=com.ebay.mobile"
+    ],
+    "company": "eBay",
+    "position": 295,
+    "filepath": "screenshots/295-eBay.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.aessuccess.org",
+      "www.aes.org",
+      "aes.com"
+    ],
+    "company": "AES",
+    "position": 296,
+    "filepath": "screenshots/296-AES.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.devonenergy.com",
+      "The Oklahoman",
+      "Yahoo Finance",
+      "Yahoo Finance"
+    ],
+    "company": "Devon Energy",
+    "position": 297,
+    "filepath": "screenshots/297-Devon Energy.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.pacificlife.com",
+      "en.wikipedia.org › wiki › Pacific_Life",
+      "www.nerdwallet.com › blog › insurance › pacific-life-insurance-review"
+    ],
+    "company": "Pacific Life",
+    "position": 298,
+    "filepath": "screenshots/298-Pacific Life.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.centerpointenergy.com › en-us",
+      "myaccount.centerpointenergy.com",
+      "www.centerpointenergy.com › en-us › corporate › contact-us"
+    ],
+    "company": "CenterPoint Energy",
+    "position": 299,
+    "filepath": "screenshots/299-CenterPoint Energy.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.discovercard.com/",
+      "www.discovery.com",
+      "corporate.discovery.com"
+    ],
+    "company": "Discovery",
+    "position": 300,
+    "filepath": "screenshots/300-Discovery.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.borgwarner.com › ...",
+      "en.wikipedia.org › wiki › BorgWarner",
+      "www.turbos.bwauto.com › aftermarket › performanceTurbos"
+    ],
+    "company": "BorgWarner",
+    "position": 301,
+    "filepath": "screenshots/301-BorgWarner.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.targaresources.com"
+    ],
+    "company": "Targa Resources",
+    "position": 302,
+    "filepath": "screenshots/302-Targa Resources.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ally.com › auto",
+      "www.ally.com › about",
+      "www.ally.com"
+    ],
+    "company": "Ally Financial",
+    "position": 303,
+    "filepath": "screenshots/303-Ally Financial.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.suntrust.com"
+    ],
+    "company": "SunTrust Banks",
+    "position": 304,
+    "filepath": "screenshots/304-SunTrust Banks.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.iqvia.com",
+      "ir.iqvia.com › overview",
+      "en.wikipedia.org › wiki › IQVIA"
+    ],
+    "company": "IQVIA Holdings",
+    "position": 305,
+    "filepath": "screenshots/305-IQVIA Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.amfam.com",
+      "en.wikipedia.org › wiki › American_Family_Insurance",
+      "www.insurancebusinessmag.com › companies › american-family-insu..."
+    ],
+    "company": "American Family Insurance Group",
+    "position": 306,
+    "filepath": "screenshots/306-American Family Insurance Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.delekus.com"
+    ],
+    "company": "Delek US Holdings",
+    "position": 307,
+    "filepath": "screenshots/307-Delek US Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.navistar.com › navistar",
+      "www.navistar.com",
+      "www.navistar.com › navistar › globalportfolio › products › trucks"
+    ],
+    "company": "Navistar International",
+    "position": 308,
+    "filepath": "screenshots/308-Navistar International.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "InvestorPlace",
+      "Yahoo Finance",
+      "News Heater",
+      "Seeking Alpha",
+      "www.chk.com"
+    ],
+    "company": "Chesapeake Energy",
+    "position": 309,
+    "filepath": "screenshots/309-Chesapeake Energy.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.unfi.com"
+    ],
+    "company": "United Natural Foods",
+    "position": 310,
+    "filepath": "screenshots/310-United Natural Foods.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.leidos.com",
+      "en.wikipedia.org › wiki › Leidos"
+    ],
+    "company": "Leidos Holdings",
+    "position": 311,
+    "filepath": "screenshots/311-Leidos Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.pultegroupinc.com › home",
+      "www.pulte.com",
+      "www.themuse.com › profiles › pultegroup"
+    ],
+    "company": "PulteGroup",
+    "position": 312,
+    "filepath": "screenshots/312-PulteGroup.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.eastman.com › Pages › Home"
+    ],
+    "company": "Eastman Chemical",
+    "position": 313,
+    "filepath": "screenshots/313-Eastman Chemical.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "https://www.republicservices.com"
+    ],
+    "company": "Republic Services",
+    "position": 314,
+    "filepath": "screenshots/314-Republic Services.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "mohawkind.com",
+      "mohawkind.com › products",
+      "www.mohawkflooring.com"
+    ],
+    "company": "Mohawk Industries",
+    "position": 315,
+    "filepath": "screenshots/315-Mohawk Industries.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.sonicautomotive.com",
+      "en.wikipedia.org › wiki › Sonic_Automotive"
+    ],
+    "company": "Sonic Automotive",
+    "position": 316,
+    "filepath": "screenshots/316-Sonic Automotive.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.owens.edu",
+      "https://twitter.com/RealCandaceO",
+      "www.owenscorning.com"
+    ],
+    "company": "Owens & Minor",
+    "position": 317,
+    "filepath": "screenshots/317-Owens & Minor.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.xerox.com/",
+      "www.xerox.com"
+    ],
+    "company": "Xerox",
+    "position": 318,
+    "filepath": "screenshots/318-Xerox.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.bostonscientific.com › content › gwc › en-US › Home"
+    ],
+    "company": "Boston Scientific",
+    "position": 319,
+    "filepath": "screenshots/319-Boston Scientific.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.dcpmidstream.com"
+    ],
+    "company": "DCP Midstream",
+    "position": 320,
+    "filepath": "screenshots/320-DCP Midstream.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.autoliv.com",
+      "en.wikipedia.org › wiki › Autoliv",
+      "www.linkedin.com › company › autoliv"
+    ],
+    "company": "Autoliv",
+    "position": 321,
+    "filepath": "screenshots/321-Autoliv.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.interpublic.com",
+      "en.wikipedia.org › wiki › The_Interpublic_Group_of_Companies"
+    ],
+    "company": "Interpublic Group",
+    "position": 322,
+    "filepath": "screenshots/322-Interpublic Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.pseg.com",
+      "nj.pseg.com",
+      "investor.pseg.com › home"
+    ],
+    "company": "Public Service Enterprise Group",
+    "position": 323,
+    "filepath": "screenshots/323-Public Service Enterprise Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.pvh.com",
+      "en.wikipedia.org › wiki › PVH_(company)",
+      "www.linkedin.com › company › pvh"
+    ],
+    "company": "PVH",
+    "position": 324,
+    "filepath": "screenshots/324-PVH.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.mosaicco.com",
+      "www.mosaic.com",
+      "www.builtinnyc.com › company › mosaic"
+    ],
+    "company": "Mosaic",
+    "position": 325,
+    "filepath": "screenshots/325-Mosaic.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "shop.advanceautoparts.com/Official-Site",
+      "shop.advanceautoparts.com",
+      "corp.advanceautoparts.com"
+    ],
+    "company": "Advance Auto Parts",
+    "position": 326,
+    "filepath": "screenshots/326-Advance Auto Parts.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.alticeusa.com"
+    ],
+    "company": "Altice USA",
+    "position": 327,
+    "filepath": "screenshots/327-Altice USA.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.hormelfoods.com",
+      "www.hormel.com"
+    ],
+    "company": "Hormel Foods",
+    "position": 328,
+    "filepath": "screenshots/328-Hormel Foods.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.oreillyauto.com",
+      "Seeking Alpha",
+      "Simply Wall St",
+      "Perham Focus"
+    ],
+    "company": "O'Reilly Automotive",
+    "position": 329,
+    "filepath": "screenshots/329-O'Reilly Automotive.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.calpine.com",
+      "en.wikipedia.org › wiki › Calpine",
+      "www.calpinesolutions.com"
+    ],
+    "company": "Calpine",
+    "position": 330,
+    "filepath": "screenshots/330-Calpine.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "ir.hertz.com",
+      "ir.hertz.com › company-overview",
+      "www.bloomberg.com › profile › company › HTZ:US"
+    ],
+    "company": "Hertz Global Holdings",
+    "position": 331,
+    "filepath": "screenshots/331-Hertz Global Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.firstdata.com",
+      "en.wikipedia.org › wiki › First_Data"
+    ],
+    "company": "First Data",
+    "position": 332,
+    "filepath": "screenshots/332-First Data.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "https://www.pxd.com",
+      "Yahoo Finance",
+      "Yahoo Finance",
+      "Dallas Morning News",
+      "https://en.wikipedia.org › wiki › Pioneer_Natural_Resources"
+    ],
+    "company": "Pioneer Natural Resources",
+    "position": 333,
+    "filepath": "screenshots/333-Pioneer Natural Resources.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.coty.com",
+      "en.wikipedia.org › wiki › Coty,_Inc"
+    ],
+    "company": "Coty",
+    "position": 334,
+    "filepath": "screenshots/334-Coty.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.agcocorp.com"
+    ],
+    "company": "AGCO",
+    "position": 335,
+    "filepath": "screenshots/335-AGCO.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.mutualofomahalifeinsuranceplans.com/learn-more",
+      "www.mutualofomahamedicareplans.com/SeniorHealth/MedicarePlans",
+      "www.newyorklife.com/New-York-Life/Mutual"
+    ],
+    "company": "Mutual of Omaha Insurance",
+    "position": 336,
+    "filepath": "screenshots/336-Mutual of Omaha Insurance.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.vistraenergy.com"
+    ],
+    "company": "Vistra Energy",
+    "position": 337,
+    "filepath": "screenshots/337-Vistra Energy.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.budget.com/",
+      "avisbudgetgroup.com"
+    ],
+    "company": "Avis Budget Group",
+    "position": 338,
+    "filepath": "screenshots/338-Avis Budget Group.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.adobe.com/",
+      "www.adobe.com",
+      "adobeacrobat.app.link › ..."
+    ],
+    "company": "Adobe",
+    "position": 339,
+    "filepath": "screenshots/339-Adobe.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.kiewit.com",
+      "www.kiewit.com › About Us › History",
+      "en.wikipedia.org › wiki › Kiewit_Corporation"
+    ],
+    "company": "Peter Kiewit Sons'",
+    "position": 340,
+    "filepath": "screenshots/340-Peter Kiewit Sons'.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "newscorp.com",
+      "newscorp.com › about",
+      "en.wikipedia.org › wiki › News_Corporation"
+    ],
+    "company": "News Corp.",
+    "position": 341,
+    "filepath": "screenshots/341-News Corp..png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.brighthousefinancial.com/",
+      "www.brighthousefinancial.com"
+    ],
+    "company": "Brighthouse Financial",
+    "position": 342,
+    "filepath": "screenshots/342-Brighthouse Financial.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.voya.com/Retirement/Plans",
+      "www.voya.com"
+    ],
+    "company": "Voya Financial",
+    "position": 343,
+    "filepath": "screenshots/343-Voya Financial.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.airproducts.com",
+      "en.wikipedia.org › wiki › Air_Products_&_Chemicals"
+    ],
+    "company": "Air Products & Chemicals",
+    "position": 344,
+    "filepath": "screenshots/344-Air Products & Chemicals.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.hilton.com › corporate",
+      "ir.hilton.com",
+      "en.wikipedia.org › wiki › Hilton_Worldwide"
+    ],
+    "company": "Hilton Worldwide Holdings",
+    "position": 345,
+    "filepath": "screenshots/345-Hilton Worldwide Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.gamestop.com"
+    ],
+    "company": "GameStop",
+    "position": 346,
+    "filepath": "screenshots/346-GameStop.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.veritivcorp.com"
+    ],
+    "company": "Veritiv",
+    "position": 347,
+    "filepath": "screenshots/347-Veritiv.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.williams.edu",
+      "www.williams.com",
+      "williamsnewyork.com"
+    ],
+    "company": "Williams",
+    "position": 348,
+    "filepath": "screenshots/348-Williams.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.campbells.com/Soups",
+      "www.campbells.com › campbell-soup",
+      "www.campbells.com"
+    ],
+    "company": "Campbell Soup",
+    "position": 349,
+    "filepath": "screenshots/349-Campbell Soup.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.rockwellcollins.com",
+      "www.rockwellcollins.com › Our-Company"
+    ],
+    "company": "Rockwell Collins",
+    "position": 350,
+    "filepath": "screenshots/350-Rockwell Collins.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.thrivent.com"
+    ],
+    "company": "Thrivent Financial for Lutherans",
+    "position": 351,
+    "filepath": "screenshots/351-Thrivent Financial for Lutherans.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.westlake.com",
+      "en.wikipedia.org › wiki › Westlake_Chemical",
+      "www.linkedin.com › company › westlake-chemical"
+    ],
+    "company": "Westlake Chemical",
+    "position": 352,
+    "filepath": "screenshots/352-Westlake Chemical.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.univarsolutions.com"
+    ],
+    "company": "Univar",
+    "position": 353,
+    "filepath": "screenshots/353-Univar.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.jbhunt.com",
+      "www.linkedin.com › company › jb-hunt-transport-services-inc",
+      "en.wikipedia.org › wiki › J._B._Hunt"
+    ],
+    "company": "J.B. Hunt Transport Services",
+    "position": 354,
+    "filepath": "screenshots/354-J.B. Hunt Transport Services.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "frontier.com",
+      "frontier.com › contactus › contact-us"
+    ],
+    "company": "Frontier Communications",
+    "position": 355,
+    "filepath": "screenshots/355-Frontier Communications.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.edwardjones.com/",
+      "www.edwardjones.com"
+    ],
+    "company": "Jones Financial (Edward Jones)",
+    "position": 356,
+    "filepath": "screenshots/356-Jones Financial (Edward Jones).png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.nov.com",
+      "en.wikipedia.org › wiki › National_Oilwell_Varco",
+      "www.linkedin.com › company › national-oilwell-varco"
+    ],
+    "company": "National Oilwell Varco",
+    "position": 357,
+    "filepath": "screenshots/357-National Oilwell Varco.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.eversource.com",
+      "en.wikipedia.org › wiki › Eversource_Energy"
+    ],
+    "company": "Eversource Energy",
+    "position": 358,
+    "filepath": "screenshots/358-Eversource Energy.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.dickssportinggoods.com/",
+      "www.dickssportinggoods.com",
+      "www.facebook.com › ... › Shopping & Retail › Retail Company"
+    ],
+    "company": "Dick's Sporting Goods",
+    "position": 359,
+    "filepath": "screenshots/359-Dick's Sporting Goods.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.genworth.com"
+    ],
+    "company": "Genworth Financial",
+    "position": 360,
+    "filepath": "screenshots/360-Genworth Financial.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "clearingcustody.fidelity.com/",
+      "www.fisglobal.com"
+    ],
+    "company": "Fidelity National Information Services",
+    "position": 361,
+    "filepath": "screenshots/361-Fidelity National Information Services.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "ir.yumchina.com › about-yum-china",
+      "ir.yumchina.com › investor-overview",
+      "finance.yahoo.com › s=yumc"
+    ],
+    "company": "Yum China Holdings",
+    "position": 362,
+    "filepath": "screenshots/362-Yum China Holdings.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.ryder.com/",
+      "ryder.com",
+      "www.linkedin.com › company › ryder-system-inc"
+    ],
+    "company": "Ryder System",
+    "position": 363,
+    "filepath": "screenshots/363-Ryder System.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.anixter.com/",
+      "www.anixter.com › en_us",
+      "www.anixter.com › en_us › about-us"
+    ],
+    "company": "Anixter International",
+    "position": 364,
+    "filepath": "screenshots/364-Anixter International.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.caesars.com",
+      "en.wikipedia.org › wiki › Caesars_Entertainment_Corporation"
+    ],
+    "company": "Caesars Entertainment",
+    "position": 365,
+    "filepath": "screenshots/365-Caesars Entertainment.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "masco.com",
+      "en.wikipedia.org › wiki › Masco"
+    ],
+    "company": "Masco",
+    "position": 366,
+    "filepath": "screenshots/366-Masco.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.thorindustries.com",
+      "en.wikipedia.org › wiki › Thor_Industries"
+    ],
+    "company": "Thor Industries",
+    "position": 367,
+    "filepath": "screenshots/367-Thor Industries.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.alaskaair.com › booking › reservation-lookup › group",
+      "investor.alaskaair.com › investors",
+      "www.alaskaair.com › content › about-us"
+    ],
+    "company": "Alaska Air Group",
+    "position": 368,
+    "filepath": "screenshots/368-Alaska Air Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.amphenol.com",
+      "www.amphenol-industrial.com",
+      "www.amphenolrf.com"
+    ],
+    "company": "Amphenol",
+    "position": 369,
+    "filepath": "screenshots/369-Amphenol.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.wesco.com",
+      "en.wikipedia.org › wiki › WESCO_International",
+      "www.linkedin.com › company › wesco"
+    ],
+    "company": "WESCO International",
+    "position": 370,
+    "filepath": "screenshots/370-WESCO International.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.huntingtoningalls.com",
+      "en.wikipedia.org › wiki › Huntington_Ingalls_Industries"
+    ],
+    "company": "Huntington Ingalls Industries",
+    "position": 371,
+    "filepath": "screenshots/371-Huntington Ingalls Industries.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.jefferies.com",
+      "jefferiesfinancialgroupinvestorrelations.jefferies.com",
+      "www.jefferies.com › JefferiesGroup"
+    ],
+    "company": "Jefferies Financial Group",
+    "position": 372,
+    "filepath": "screenshots/372-Jefferies Financial Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.dana.com",
+      "en.wikipedia.org › wiki › Dana_Incorporated",
+      "www.linkedin.com › company › dana-incorporated"
+    ],
+    "company": "Dana",
+    "position": 373,
+    "filepath": "screenshots/373-Dana.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.expeditors.com",
+      "en.wikipedia.org › wiki › Expeditors_International",
+      "www.bloomberg.com › profile › company"
+    ],
+    "company": "Expeditors Intl. of Washington",
+    "position": 374,
+    "filepath": "screenshots/374-Expeditors Intl. of Washington.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "emcorgroup.com"
+    ],
+    "company": "EMCOR Group",
+    "position": 375,
+    "filepath": "screenshots/375-EMCOR Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.darden.com"
+    ],
+    "company": "Darden Restaurants",
+    "position": 376,
+    "filepath": "screenshots/376-Darden Restaurants.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.spartannash.com",
+      "en.wikipedia.org › wiki › SpartanNash"
+    ],
+    "company": "SpartanNash",
+    "position": 377,
+    "filepath": "screenshots/377-SpartanNash.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.assurant.com",
+      "www.myassurantpolicy.com"
+    ],
+    "company": "Assurant",
+    "position": 378,
+    "filepath": "screenshots/378-Assurant.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.unitedrentals.com",
+      "en.wikipedia.org › wiki › United_Rentals",
+      "www.facebook.com › Pages › Other › Brand › Tools/Equipment"
+    ],
+    "company": "United Rentals",
+    "position": 379,
+    "filepath": "screenshots/379-United Rentals.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.libertymedia.com",
+      "www.libertymedia.com › overview › asset-list",
+      "en.wikipedia.org › wiki › Liberty_Media"
+    ],
+    "company": "Liberty Media",
+    "position": 380,
+    "filepath": "screenshots/380-Liberty Media.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.erieinsurance.com"
+    ],
+    "company": "Erie Insurance Group",
+    "position": 381,
+    "filepath": "screenshots/381-Erie Insurance Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.auto-owners.com"
+    ],
+    "company": "Auto-Owners Insurance",
+    "position": 382,
+    "filepath": "screenshots/382-Auto-Owners Insurance.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.cheniere.com"
+    ],
+    "company": "Cheniere Energy",
+    "position": 383,
+    "filepath": "screenshots/383-Cheniere Energy.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "ir.53.com",
+      "www.53.com › content › fifth-third",
+      "ir.53.com › news-releases › all › all › all"
+    ],
+    "company": "Fifth Third Bancorp",
+    "position": 384,
+    "filepath": "screenshots/384-Fifth Third Bancorp.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.footlocker.com/",
+      "www.footlocker.com",
+      "www.kidsfootlocker.com"
+    ],
+    "company": "Foot Locker",
+    "position": 385,
+    "filepath": "screenshots/385-Foot Locker.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.conagrabrands.com"
+    ],
+    "company": "Conagra Brands",
+    "position": 386,
+    "filepath": "screenshots/386-Conagra Brands.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.zimmerbiomet.com",
+      "www.zimmerbiomet.com › medical-professionals",
+      "en.wikipedia.org › wiki › Zimmer_Biomet"
+    ],
+    "company": "Zimmer Biomet Holdings",
+    "position": 387,
+    "filepath": "screenshots/387-Zimmer Biomet Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.tractorsupply.com"
+    ],
+    "company": "Tractor Supply",
+    "position": 388,
+    "filepath": "screenshots/388-Tractor Supply.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.berryglobal.com",
+      "en.wikipedia.org › wiki › Berry_Global",
+      "www.linkedin.com › company › berryglobal"
+    ],
+    "company": "Berry Global Group",
+    "position": 389,
+    "filepath": "screenshots/389-Berry Global Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.alliancedata.com › home",
+      "www.alliancedata.com › about-us",
+      "www.alliancedata.com › contact-us"
+    ],
+    "company": "Alliance Data Systems",
+    "position": 390,
+    "filepath": "screenshots/390-Alliance Data Systems.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.hersheys.com › en_us",
+      "www.thehersheycompany.com › en_us",
+      "www.hersheypa.com"
+    ],
+    "company": "Hershey",
+    "position": 391,
+    "filepath": "screenshots/391-Hershey.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.pplelectric.com",
+      "www.pplweb.com",
+      "finance.yahoo.com › quote › PPL"
+    ],
+    "company": "PPL",
+    "position": 392,
+    "filepath": "screenshots/392-PPL.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "The New York Times",
+      "Supermarket News",
+      "Sharon Herald",
+      "Door County Daily News",
+      "WHIO-TV"
+    ],
+    "company": "Dean Foods",
+    "position": 393,
+    "filepath": "screenshots/393-Dean Foods.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.bldr.com",
+      "www.bldrsd.com",
+      "www.linkedin.com › company › builders-firstsource"
+    ],
+    "company": "Builders FirstSource",
+    "position": 394,
+    "filepath": "screenshots/394-Builders FirstSource.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.oshkosh.com",
+      "www.oshkoshcorp.com",
+      "https://twitter.com/OshKoshBgosh"
+    ],
+    "company": "Oshkosh",
+    "position": 395,
+    "filepath": "screenshots/395-Oshkosh.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.enlink.com"
+    ],
+    "company": "EnLink Midstream",
+    "position": 396,
+    "filepath": "screenshots/396-EnLink Midstream.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.berkley.com",
+      "en.wikipedia.org › wiki › W._R._Berkley_Corporation"
+    ],
+    "company": "W.R. Berkley",
+    "position": 397,
+    "filepath": "screenshots/397-W.R. Berkley.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.wecenergygroup.com",
+      "https://en.wikipedia.org › wiki › WEC_Energy_Group",
+      "https://finance.yahoo.com › quote › WEC"
+    ],
+    "company": "WEC Energy Group",
+    "position": 398,
+    "filepath": "screenshots/398-WEC Energy Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.jetblue.com"
+    ],
+    "company": "JetBlue Airways",
+    "position": 399,
+    "filepath": "screenshots/399-JetBlue Airways.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ugi.com",
+      "www.ugicorp.com"
+    ],
+    "company": "UGI",
+    "position": 400,
+    "filepath": "screenshots/400-UGI.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.amark.com",
+      "en.wikipedia.org › wiki › A-Mark_Precious_Metals",
+      "www.bloomberg.com › profile › company › AMRK:US"
+    ],
+    "company": "A-Mark Precious Metals",
+    "position": 401,
+    "filepath": "screenshots/401-A-Mark Precious Metals.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.fnf.com",
+      "www.fntg.com",
+      "www.linkedin.com › company › fidelity-national-capital"
+    ],
+    "company": "Fidelity National Financial",
+    "position": 402,
+    "filepath": "screenshots/402-Fidelity National Financial.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.cbrands.com"
+    ],
+    "company": "Constellation Brands",
+    "position": 403,
+    "filepath": "screenshots/403-Constellation Brands.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.questdiagnostics.com"
+    ],
+    "company": "Quest Diagnostics",
+    "position": 404,
+    "filepath": "screenshots/404-Quest Diagnostics.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.activisionblizzard.com",
+      "The Verge",
+      "The Motley Fool",
+      "Comic Book"
+    ],
+    "company": "Activision Blizzard",
+    "position": 405,
+    "filepath": "screenshots/405-Activision Blizzard.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.weyerhaeuser.com",
+      "en.wikipedia.org › wiki › Weyerhaeuser"
+    ],
+    "company": "Weyerhaeuser",
+    "position": 406,
+    "filepath": "screenshots/406-Weyerhaeuser.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.raymondjames.com",
+      "clientaccess.rjf.com"
+    ],
+    "company": "Raymond James Financial",
+    "position": 407,
+    "filepath": "screenshots/407-Raymond James Financial.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "en.wikipedia.org › wiki › Casey's_General_Stores"
+    ],
+    "company": "Casey's General Stores",
+    "position": 408,
+    "filepath": "screenshots/408-Casey's General Stores.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.keurigdrpepper.com"
+    ],
+    "company": "Keurig Dr Pepper",
+    "position": 409,
+    "filepath": "screenshots/409-Keurig Dr Pepper.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.americantower.com",
+      "www.americantower.com › company"
+    ],
+    "company": "American Tower",
+    "position": 410,
+    "filepath": "screenshots/410-American Tower.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.apache.org",
+      "httpd.apache.org"
+    ],
+    "company": "Apache",
+    "position": 411,
+    "filepath": "screenshots/411-Apache.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.doversaddlery.com/",
+      "www.doversaddlery.com",
+      "www.dovercorporation.com"
+    ],
+    "company": "Dover",
+    "position": 412,
+    "filepath": "screenshots/412-Dover.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.key.com › about"
+    ],
+    "company": "KeyCorp",
+    "position": 413,
+    "filepath": "screenshots/413-KeyCorp.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.jmsmucker.com",
+      "www.smuckers.com",
+      "www.smuckers.com › about-smucker-company"
+    ],
+    "company": "J.M. Smucker",
+    "position": 414,
+    "filepath": "screenshots/414-J.M. Smucker.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.citizensbank.com",
+      "investor.citizensbank.com › about-us",
+      "investor.citizensbank.com › about-us › our-company"
+    ],
+    "company": "Citizens Financial Group",
+    "position": 415,
+    "filepath": "screenshots/415-Citizens Financial Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.motorolasolutions.com › en_us",
+      "en.wikipedia.org › wiki › Motorola_Solutions",
+      "https://twitter.com/MotoSolutions"
+    ],
+    "company": "Motorola Solutions",
+    "position": 416,
+    "filepath": "screenshots/416-Motorola Solutions.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.magellanhealth.com"
+    ],
+    "company": "Magellan Health",
+    "position": 417,
+    "filepath": "screenshots/417-Magellan Health.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.aam.com",
+      "en.wikipedia.org › wiki › American_Axle"
+    ],
+    "company": "American Axle & Manufacturing",
+    "position": 418,
+    "filepath": "screenshots/418-American Axle & Manufacturing.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.newmont.com",
+      "www.newmont.com › about"
+    ],
+    "company": "Newmont Goldcorp",
+    "position": 419,
+    "filepath": "screenshots/419-Newmont Goldcorp.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.spiritaero.com"
+    ],
+    "company": "Spirit AeroSystems Holdings",
+    "position": 420,
+    "filepath": "screenshots/420-Spirit AeroSystems Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.westernunion.com",
+      "www.western.edu",
+      "www.wwu.edu"
+    ],
+    "company": "Western & Southern Financial Group",
+    "position": 421,
+    "filepath": "screenshots/421-Western & Southern Financial Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.fortive.com",
+      "en.wikipedia.org › wiki › Fortive",
+      "www.forbes.com › sites › joecornell › 2019/09/09 › fortive-ftv-annou..."
+    ],
+    "company": "Fortive",
+    "position": 422,
+    "filepath": "screenshots/422-Fortive.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.graybar.com › store",
+      "www.graybar.com › industries",
+      "www.graybar.com › industries › industrial"
+    ],
+    "company": "Graybar Electric",
+    "position": 423,
+    "filepath": "screenshots/423-Graybar Electric.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.nvrinc.com"
+    ],
+    "company": "NVR",
+    "position": 424,
+    "filepath": "screenshots/424-NVR.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.averydennison.com",
+      "www.avery.com",
+      "en.wikipedia.org › wiki › Avery_Dennison"
+    ],
+    "company": "Avery Dennison",
+    "position": 425,
+    "filepath": "screenshots/425-Avery Dennison.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.celanese.com",
+      "en.wikipedia.org › wiki › Celanese",
+      "www.dallasnews.com › business › 2019/10/08 › celanese-reportedly-c..."
+    ],
+    "company": "Celanese",
+    "position": 426,
+    "filepath": "screenshots/426-Celanese.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.afginc.com › ...",
+      "en.wikipedia.org › wiki › American_Financial_Group",
+      "finance.yahoo.com › quote › afg › profile"
+    ],
+    "company": "American Financial Group",
+    "position": 427,
+    "filepath": "screenshots/427-American Financial Group.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.tollbrothers.com/New-York/New-Homes",
+      "www.tollbrothers.com",
+      "www.tollbrotherscityliving.com › residences › new-york"
+    ],
+    "company": "Toll Brothers",
+    "position": 428,
+    "filepath": "screenshots/428-Toll Brothers.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.sanmina.com",
+      "en.wikipedia.org › wiki › Sanmina_Corporation",
+      "www.glassdoor.com › Working-at-Sanmina-EI_IE2322.11,18.htm"
+    ],
+    "company": "Sanmina",
+    "position": 429,
+    "filepath": "screenshots/429-Sanmina.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.insight.com › en_US",
+      "www.insight.com › en_US › about › overview",
+      "en.wikipedia.org › wiki › Insight_Enterprises"
+    ],
+    "company": "Insight Enterprises",
+    "position": 430,
+    "filepath": "screenshots/430-Insight Enterprises.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.owenscorning.com",
+      "en.wikipedia.org › wiki › Owens_Corning",
+      "https://twitter.com/OwensCorning"
+    ],
+    "company": "Owens Corning",
+    "position": 431,
+    "filepath": "screenshots/431-Owens Corning.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.packagingcorp.com",
+      "en.wikipedia.org › wiki › Packaging_Corporation_of_America",
+      "www.bloomberg.com › profile › company › PKG:US"
+    ],
+    "company": "Packaging Corp. of America",
+    "position": 432,
+    "filepath": "screenshots/432-Packaging Corp. of America.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ta-petro.com",
+      "en.wikipedia.org › wiki › TravelCenters_of_America",
+      "ta-petro.jobs.net"
+    ],
+    "company": "TravelCenters of America",
+    "position": 433,
+    "filepath": "screenshots/433-TravelCenters of America.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.olin.com",
+      "www.theolinstudio.com"
+    ],
+    "company": "Olin",
+    "position": 434,
+    "filepath": "screenshots/434-Olin.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ajg.com",
+      "en.wikipedia.org › wiki › Arthur_J._Gallagher_&_Co.",
+      "www.insurancebusinessmag.com › companies › arthur-j--gallagher"
+    ],
+    "company": "Arthur J. Gallagher",
+    "position": 435,
+    "filepath": "screenshots/435-Arthur J. Gallagher.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.mastec.com"
+    ],
+    "company": "MasTec",
+    "position": 436,
+    "filepath": "screenshots/436-MasTec.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.alleghany.com › home",
+      "www.alleghany.com › about-alleghany",
+      "en.wikipedia.org › wiki › Alleghany_County"
+    ],
+    "company": "Alleghany",
+    "position": 437,
+    "filepath": "screenshots/437-Alleghany.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.o-i.com",
+      "en.wikipedia.org › wiki › O-I_Glass",
+      "www.wsj.com › articles › asbestos-costs-drive-owens-illinois-affiliate-to-..."
+    ],
+    "company": "Owens-Illinois",
+    "position": 438,
+    "filepath": "screenshots/438-Owens-Illinois.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.asburyauto.com",
+      "en.wikipedia.org › wiki › Asbury_Automotive_Group",
+      "www.asburycareers.com"
+    ],
+    "company": "Asbury Automotive Group",
+    "position": 439,
+    "filepath": "screenshots/439-Asbury Automotive Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.cmsenergy.com › home",
+      "www.cmsenergy.com › investor-relations › corporate-overview",
+      "www.cmsenergy.com › about-cms-energy › consumers-energy"
+    ],
+    "company": "CMS Energy",
+    "position": 440,
+    "filepath": "screenshots/440-CMS Energy.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.markelinsurance.com",
+      "www.markelinsurance.com › my-account",
+      "www.markel.com"
+    ],
+    "company": "Markel",
+    "position": 441,
+    "filepath": "screenshots/441-Markel.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.blackstone.com",
+      "en.wikipedia.org › wiki › The_Blackstone_Group"
+    ],
+    "company": "Blackstone Group",
+    "position": 442,
+    "filepath": "screenshots/442-Blackstone Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.aksteel.com",
+      "finance.yahoo.com › quote › AKS",
+      "finance.yahoo.com › news › buy-ak-steel-aks-ahead-141002956"
+    ],
+    "company": "AK Steel Holding",
+    "position": 443,
+    "filepath": "screenshots/443-AK Steel Holding.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.hanes.com › corporate",
+      "www.hanes.com",
+      "en.wikipedia.org › wiki › Hanesbrands"
+    ],
+    "company": "Hanesbrands",
+    "position": 444,
+    "filepath": "screenshots/444-Hanesbrands.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.rrd.com",
+      "www.indeed.com › cmp › Rr-Donnelley › reviews"
+    ],
+    "company": "R.R. Donnelley & Sons",
+    "position": 445,
+    "filepath": "screenshots/445-R.R. Donnelley & Sons.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.wayfair.com/",
+      "www.wayfair.com",
+      "Business Wire"
+    ],
+    "company": "Wayfair",
+    "position": 446,
+    "filepath": "screenshots/446-Wayfair.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.regions.com › personal-banking",
+      "ir.regions.com",
+      "ir.regions.com › company › company-profile"
+    ],
+    "company": "Regions Financial",
+    "position": 447,
+    "filepath": "screenshots/447-Regions Financial.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.wynnlasvegas.com/",
+      "www.wynnresorts.com",
+      "www.wynnlasvegas.com"
+    ],
+    "company": "Wynn Resorts",
+    "position": 448,
+    "filepath": "screenshots/448-Wynn Resorts.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ulta.com",
+      "https://twitter.com/ultabeauty",
+      "ir.ultabeauty.com › overview"
+    ],
+    "company": "Ulta Beauty",
+    "position": 449,
+    "filepath": "screenshots/449-Ulta Beauty.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.regeneron.com"
+    ],
+    "company": "Regeneron Pharmaceuticals",
+    "position": 450,
+    "filepath": "screenshots/450-Regeneron Pharmaceuticals.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.burlington.com",
+      "www.indeed.com › q-Burlington-Stores-l-New-York,-NY-jobs"
+    ],
+    "company": "Burlington Stores",
+    "position": 451,
+    "filepath": "screenshots/451-Burlington Stores.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.rockwellautomation.com"
+    ],
+    "company": "Rockwell Automation",
+    "position": 452,
+    "filepath": "screenshots/452-Rockwell Automation.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.northerntrust.com"
+    ],
+    "company": "Northern Trust",
+    "position": 453,
+    "filepath": "screenshots/453-Northern Trust.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.chemours.com"
+    ],
+    "company": "Chemours",
+    "position": 454,
+    "filepath": "screenshots/454-Chemours.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "roli.com › products › seaboard",
+      "roli.com › products › seaboard › grand-stage",
+      "www.seaboardcorp.com"
+    ],
+    "company": "Seaboard",
+    "position": 455,
+    "filepath": "screenshots/455-Seaboard.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.marathonoil.com",
+      "www.marathon.com"
+    ],
+    "company": "Marathon Oil",
+    "position": 456,
+    "filepath": "screenshots/456-Marathon Oil.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ascenaretail.com"
+    ],
+    "company": "Ascena Retail Group",
+    "position": 457,
+    "filepath": "screenshots/457-Ascena Retail Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.dillards.com"
+    ],
+    "company": "Dillard's",
+    "position": 458,
+    "filepath": "screenshots/458-Dillard's.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.cintas.com"
+    ],
+    "company": "Cintas",
+    "position": 459,
+    "filepath": "screenshots/459-Cintas.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "Investopedia",
+      "Seeking Alpha",
+      "Investor's Business Daily",
+      "MarketWatch",
+      "Yahoo Finance"
+    ],
+    "company": "Advanced Micro Devices",
+    "position": 460,
+    "filepath": "screenshots/460-Advanced Micro Devices.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.hess.com",
+      "en.wikipedia.org › wiki › Hess_triangle",
+      "en.wikipedia.org › wiki › Hess_Corporation"
+    ],
+    "company": "Hess",
+    "position": 461,
+    "filepath": "screenshots/461-Hess.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.youtube.com › watch",
+      "www.youtube.com › watch",
+      "www.youtube.com › watch"
+    ],
+    "company": "M&T Bank Corp.",
+    "position": 462,
+    "filepath": "screenshots/462-M&T Bank Corp..png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.abm.com"
+    ],
+    "company": "ABM Industries",
+    "position": 463,
+    "filepath": "screenshots/463-ABM Industries.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.becn.com",
+      "ir.beaconroofingsupply.com › home",
+      "ir.beaconroofingsupply.com › press-releases › press-releases-details"
+    ],
+    "company": "Beacon Roofing Supply",
+    "position": 464,
+    "filepath": "screenshots/464-Beacon Roofing Supply.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ncr.com"
+    ],
+    "company": "NCR",
+    "position": 465,
+    "filepath": "screenshots/465-NCR.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.iheartmedia.com"
+    ],
+    "company": "iHeartMedia",
+    "position": 466,
+    "filepath": "screenshots/466-iHeartMedia.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.franklintempleton.com/",
+      "www.franklinresources.com",
+      "Barron's"
+    ],
+    "company": "Franklin Resources",
+    "position": 467,
+    "filepath": "screenshots/467-Franklin Resources.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ameren.com"
+    ],
+    "company": "Ameren",
+    "position": 468,
+    "filepath": "screenshots/468-Ameren.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.intercontinentalexchange.com",
+      "www.theice.com",
+      "www.theice.com › about"
+    ],
+    "company": "Intercontinental Exchange",
+    "position": 469,
+    "filepath": "screenshots/469-Intercontinental Exchange.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.youtube.com › watch",
+      "www.youtube.com › watch",
+      "www.youtube.com › watch"
+    ],
+    "company": "S&P Global",
+    "position": 470,
+    "filepath": "screenshots/470-S&P Global.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.postholdings.com",
+      "en.wikipedia.org › wiki › Post_Holdings",
+      "www.linkedin.com › company › postholdings"
+    ],
+    "company": "Post Holdings",
+    "position": 471,
+    "filepath": "screenshots/471-Post Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.analog.com › ..."
+    ],
+    "company": "Analog Devices",
+    "position": 472,
+    "filepath": "screenshots/472-Analog Devices.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.ralphlauren.com/",
+      "www.ralphlauren.com",
+      "en.wikipedia.org › wiki › Ralph_Lauren"
+    ],
+    "company": "Ralph Lauren",
+    "position": 473,
+    "filepath": "screenshots/473-Ralph Lauren.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.l3harris.com",
+      "en.wikipedia.org › wiki › L3Harris_Technologies",
+      "www.linkedin.com › company › l3harris-technologies"
+    ],
+    "company": "L3Harris Technologies",
+    "position": 474,
+    "filepath": "screenshots/474-L3Harris Technologies.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.boozallen.com"
+    ],
+    "company": "Booz Allen Hamilton",
+    "position": 475,
+    "filepath": "screenshots/475-Booz Allen Hamilton.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.polaris.com › en-us",
+      "www.polaris.com › en-us › about",
+      "offroad.polaris.com › en-us"
+    ],
+    "company": "Polaris Industries",
+    "position": 476,
+    "filepath": "screenshots/476-Polaris Industries.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.clorox.com/Products",
+      "www.clorox.com",
+      "www.clorox.com › products"
+    ],
+    "company": "Clorox",
+    "position": 477,
+    "filepath": "screenshots/477-Clorox.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.realogy.com",
+      "en.wikipedia.org › wiki › Realogy",
+      "www.nrtllc.com › who-we-are › realogy-company"
+    ],
+    "company": "Realogy Holdings",
+    "position": 478,
+    "filepath": "screenshots/478-Realogy Holdings.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.hdsupplysolutions.com/",
+      "hdsupply.com"
+    ],
+    "company": "HD Supply Holdings",
+    "position": 479,
+    "filepath": "screenshots/479-HD Supply Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.graphicpkg.com",
+      "en.wikipedia.org › wiki › Graphic_Packaging",
+      "www.reuters.com › companies › GPK"
+    ],
+    "company": "Graphic Packaging Holding",
+    "position": 480,
+    "filepath": "screenshots/480-Graphic Packaging Holding.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.oldrepublic.com",
+      "www.oldrepublic.com › about",
+      "ir.oldrepublic.com › investor-overview"
+    ],
+    "company": "Old Republic International",
+    "position": 481,
+    "filepath": "screenshots/481-Old Republic International.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.intuit.com/",
+      "www.intuit.com",
+      "https://twitter.com/Intuit"
+    ],
+    "company": "Intuit",
+    "position": 482,
+    "filepath": "screenshots/482-Intuit.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.netapp.com › ..."
+    ],
+    "company": "NetApp",
+    "position": 483,
+    "filepath": "screenshots/483-NetApp.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.tapestry.com"
+    ],
+    "company": "Tapestry",
+    "position": 484,
+    "filepath": "screenshots/484-Tapestry.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.onsemi.com",
+      "en.wikipedia.org › wiki › ON_Semiconductor"
+    ],
+    "company": "ON Semiconductor",
+    "position": 485,
+    "filepath": "screenshots/485-ON Semiconductor.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.ingredion.com",
+      "www.ingredion.us",
+      "en.wikipedia.org › wiki › Ingredion"
+    ],
+    "company": "Ingredion",
+    "position": 486,
+    "filepath": "screenshots/486-Ingredion.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.zoetis.com",
+      "www.zoetisus.com",
+      "www.zoetisus.com › login"
+    ],
+    "company": "Zoetis",
+    "position": 487,
+    "filepath": "screenshots/487-Zoetis.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.fiserv.com"
+    ],
+    "company": "Fiserv",
+    "position": 488,
+    "filepath": "screenshots/488-Fiserv.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "treehousefoods.com",
+      "en.wikipedia.org › wiki › TreeHouse_Foods"
+    ],
+    "company": "TreeHouse Foods",
+    "position": 489,
+    "filepath": "screenshots/489-TreeHouse Foods.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.roberthalf.com/",
+      "www.roberthalf.com",
+      "https://twitter.com/roberthalf"
+    ],
+    "company": "Robert Half International",
+    "position": 490,
+    "filepath": "screenshots/490-Robert Half International.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.firstam.com",
+      "investors.firstam.com › investors › overview",
+      "www.firstam.com › contact-us"
+    ],
+    "company": "First American Financial",
+    "position": 491,
+    "filepath": "screenshots/491-First American Financial.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.harley-davidson.com/",
+      "www.harley-davidson.com",
+      "www.nycharleydavidson.com"
+    ],
+    "company": "Harley-Davidson",
+    "position": 492,
+    "filepath": "screenshots/492-Harley-Davidson.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "investor.windstream.com › home",
+      "investor.windstream.com › news › news-details › Windstream-Holdin..."
+    ],
+    "company": "Windstream Holdings",
+    "position": 493,
+    "filepath": "screenshots/493-Windstream Holdings.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "en.wikipedia.org › wiki › Yum!_Brands"
+    ],
+    "company": "Yum Brands",
+    "position": 494,
+    "filepath": "screenshots/494-Yum Brands.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.williams-sonoma.com/",
+      "www.williams-sonoma.com"
+    ],
+    "company": "Williams-Sonoma",
+    "position": 495,
+    "filepath": "screenshots/495-Williams-Sonoma.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.simon.com",
+      "The Indianapolis Star",
+      "The Motley Fool",
+      "Sourcing Journal"
+    ],
+    "company": "Simon Property Group",
+    "position": 496,
+    "filepath": "screenshots/496-Simon Property Group.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "navient.com"
+    ],
+    "company": "Navient",
+    "position": 497,
+    "filepath": "screenshots/497-Navient.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.westernunion.com"
+    ],
+    "company": "Western Union",
+    "position": 498,
+    "filepath": "screenshots/498-Western Union.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.peabodyenergy.com",
+      "en.wikipedia.org › wiki › Peabody_Energy",
+      "www.washingtonpost.com › news › energy-environment › 2016/04/13"
+    ],
+    "company": "Peabody Energy",
+    "position": 499,
+    "filepath": "screenshots/499-Peabody Energy.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.levi.com/",
+      "www.levistrauss.com",
+      "www.levistrauss.com › levis-history"
+    ],
+    "company": "Levi Strauss",
+    "position": 500,
+    "filepath": "screenshots/500-Levi Strauss.png"
   }
 ]
