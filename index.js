@@ -1,6 +1,7 @@
 const fetchCompanies = require('./lib/fetchCompanies');
 const checkGoogleSearch = require('./lib/checkGoogleSearch');
-const saveJson = require('./lib/saveJson');
+const saveFile = require('./lib/saveFile');
+const printResults = require('./lib/printResults');
 
 const COMPANY_COUNT = 50; // max = 500
 const SAVE_SCREENSHOTS = true;
@@ -12,7 +13,7 @@ const SAVE_SCREENSHOTS = true;
     console.log(`Found ${companies.length} companies.`);
 
     // save them to a json file (for now)
-    saveJson({ path: 'data/companies.json', data: companies });
+    saveFile({ path: 'data/companies.json', data: JSON.stringify(companies, null, 2) });
 
     // only check google for COMPANY_COUNT companies
     const fortune50 = companies.slice(0, COMPANY_COUNT);
@@ -33,12 +34,13 @@ const SAVE_SCREENSHOTS = true;
     }
 
     // save them to a json file (for now)
-    saveJson({ path: 'data/results.json', data: results });
+    saveFile({ path: 'data/results.json', data: JSON.stringify(results, null, 2) });
+
+    // print the results to a markdown table
+    printResults(results);
 
     // log result
     console.log(`${adPresentCount} of ${results.length} companies have ads.`);
-
-    // TO DO: print results to .md table
   } catch (e) {
     console.log('Error', e);
     return;
