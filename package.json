@@ -1,0 +1,14 @@
+{
+  "name": "google-ad-scrape",
+  "version": "0.0.1",
+  "description": "scrape google to see what companies purchase an ad for their own name",
+  "main": "index.js",
+  "author": "Patrick Cooney <pcooney10@gmail.com>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  },
+  "license": "MIT"
+}

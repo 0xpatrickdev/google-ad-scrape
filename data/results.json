@@ -1,0 +1,54 @@
+[
+  {
+    "adPresent": true,
+    "urls": [
+      "www.walmart.com/",
+      "www.walmart.com"
+    ],
+    "company": "Walmart",
+    "position": 1,
+    "filepath": "screenshots/1-Walmart.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "energyfactor.exxonmobil.com/ExxonMobil/EnergyLivesHere",
+      "corporate.exxonmobil.com",
+      "www.exxon.com › ..."
+    ],
+    "company": "Exxon Mobil",
+    "position": 2,
+    "filepath": "screenshots/2-Exxon Mobil.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.apple.com/",
+      "www.apple.com",
+      "Forbes"
+    ],
+    "company": "Apple",
+    "position": 3,
+    "filepath": "screenshots/3-Apple.png"
+  },
+  {
+    "adPresent": false,
+    "urls": [
+      "www.berkshirehathaway.com",
+      "www.bhhs.com"
+    ],
+    "company": "Berkshire Hathaway",
+    "position": 4,
+    "filepath": "screenshots/4-Berkshire Hathaway.png"
+  },
+  {
+    "adPresent": true,
+    "urls": [
+      "www.amazon.com/",
+      "www.amazon.com"
+    ],
+    "company": "Amazon.com",
+    "position": 5,
+    "filepath": "screenshots/5-Amazon.com.png"
+  }
+]
